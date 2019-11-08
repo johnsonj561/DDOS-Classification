@@ -61,7 +61,7 @@ logger.log_message('\n'.join(sys.argv[1:]))
 
 # DEFINE DIRECTORIES/PATHS
 # -------------------------------------------------- #
-data_file = 'partd-2017-minmax-scaled.hdf5'
+data_file = 'combined-minmax-scaled.hdf5'
 data_path = os.path.join(os.environ['CMS_ROOT'], 'data', data_file)
 logger.log_message(data_path)
 train_key = 'train_normalized'
@@ -90,7 +90,7 @@ for run in range(runs):
 	# -------------------------------------------------- #
 	train_data = pd.read_hdf(data_path, key=train_key)
 	logger.log_message('Data imbalance levels before sampling')
-	logger.log_message(get_imbalance_description(train_data['exclusion']))
+	logger.log_message(get_imbalance_description(train_data['class']))
 	logger.log_message('Size of train data = ' + str(len(train_data)))
 
 
@@ -101,18 +101,18 @@ for run in range(runs):
 
 	# APPLY SAMPLING TO THE TRAINING DATA
 	# --------------------------------------------------
-	pos_train, neg_train = split_on_binary_attribute(train_data, attribute='exclusion', pos_label=1, neg_label=0)
+	pos_train, neg_train = split_on_binary_attribute(train_data, attribute='class', pos_label=1, neg_label=0)
 	train_data = apply_ros_rus(pos_train, neg_train, ros_rate=ros_rate, rus_rate=rus_rate)
 	del pos_train
 	del neg_train
 
 	# SEPARATE FEATURES/LABELS
 	# --------------------------------------------------
-	train_y = train_data['exclusion']
-	train_x = train_data.drop(columns=['exclusion'])
+	train_y = train_data['class']
+	train_x = train_data.drop(columns=['class'])
 
-	test_y = test_data['exclusion']
-	test_x = test_data.drop(columns=['exclusion'])
+	test_y = test_data['class']
+	test_x = test_data.drop(columns=['class'])
 
 	logger.log_message('Training data imbalance levels after sampling')
 	logger.log_message(get_imbalance_description(train_y))
@@ -123,7 +123,7 @@ for run in range(runs):
 	# SEPARATE FEATURES/LABELS
 	# --------------------------------------------------
 	if theoretical_threshold == "tbd" or minority_size == "tbd":
-		pos_length, neg_length = len(train_data.loc[train_data['exclusion'] == 1]), len(train_data.loc[train_data['exclusion'] == 0])
+		pos_length, neg_length = len(train_data.loc[train_data['class'] == 1]), len(train_data.loc[train_data['class'] == 0])
 		print(f'Positive lenth {pos_length} and negative lenth {neg_length}')
 		train_total = pos_length + neg_length
 		print(f'Total is {train_total}')

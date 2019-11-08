@@ -50,7 +50,7 @@ logger.log_message('\n'.join(sys.argv[1:]))
 # DEFINE DIRECTORIES/PATHS
 # -------------------------------------------------- #
 # data
-data_file = 'combined-2017-minmax-scaled.hdf5'
+data_file = 'combined-minmax-scaled.hdf5'
 data_path = os.path.join(os.environ['CMS_ROOT'], 'data', data_file)
 logger.log_message(data_path)
 train_key = 'train_normalized'
@@ -82,11 +82,11 @@ for run in range(runs):
 
 	# SEPARATE FEATURES/LABELS
 	# --------------------------------------------------
-	train_y = train_data['exclusion']
-	train_x = train_data.drop(columns=['exclusion'])
+	train_y = train_data['class']
+	train_x = train_data.drop(columns=['class'])
 
-	test_y = test_data['exclusion']
-	test_x = test_data.drop(columns=['exclusion'])
+	test_y = test_data['class']
+	test_x = test_data.drop(columns=['class'])
 
 	del train_data
 	del test_data

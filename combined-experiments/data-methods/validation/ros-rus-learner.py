@@ -86,7 +86,7 @@ for run in range(runs):
 	# -------------------------------------------------- #
 	data = pd.read_hdf(hdf5_path, key=train_key)
 	logger.log_message('Data imbalance levels before sampling')
-	logger.log_message(get_imbalance_description(data['exclusion']))
+	logger.log_message(get_imbalance_description(data['class']))
 
 
 	# CREATE DIRECTORY TO STORE RESULTS
@@ -103,7 +103,7 @@ for run in range(runs):
 	train_x, train_y, valid_x, valid_y = train_valid_split_w_sampling(
 		data,
 		valid_size=0.1,
-		target_col='exclusion',
+		target_col='class',
 		ros_rate=ros_rate,
 		rus_rate=rus_rate)
 
