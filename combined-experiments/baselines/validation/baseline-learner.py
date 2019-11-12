@@ -40,7 +40,6 @@ activation = 'relu'
 dropout_rate = 0.5
 learn_rate = 1e-3
 
-data_file = 'combined-minmax-scaled.hdf5'
 
 # INITIALIZE LOGGER
 # -------------------------------------------------- #
@@ -52,8 +51,7 @@ logger.log_message('\n'.join(sys.argv[1:]))
 # DEFINE DIRECTORIES/PATHS
 # -------------------------------------------------- #
 # data
-data_dir = '~/git/DDOS-Classification/data'
-hdf5_path = os.path.join(data_dir, data_file)
+hdf5_path = '/home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5'
 logger.log_message(hdf5_path)
 train_key = 'train_normalized'
 test_key = 'test_normalized'

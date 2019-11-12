@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -J partd_d2_w32
+#SBATCH -J comb_d2_w32
 #SBATCH -A jjohn273
 #SBATCH -e errors.%j.txt
 #SBATCH -o output.%j.txt
@@ -13,8 +13,8 @@ module load anaconda/anaconda3/5.0.1
 source activate jjohn273-tf.latest
 
 srun python ../baseline-learner.py       \
-          runs=6              \
+          runs=10              \
           width=32            \
           depth=2             \
-          epochs=150          \
+          epochs=200          \
           threshold_interval=0.0001     

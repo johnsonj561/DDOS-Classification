@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -J comb_d4_w32
+#SBATCH -J ros_709_d4
 #SBATCH -A jjohn273
 #SBATCH -e errors.%j.txt
 #SBATCH -o output.%j.txt
@@ -12,9 +12,10 @@ module load anaconda/anaconda3/5.0.1
 
 source activate jjohn273-tf.latest
 
-srun python ../baseline-learner.py       \
+srun python ../ros-rus-learner.py       \
+          ros_rate=709.4     \
           runs=10              \
           width=32            \
           depth=4             \
-          epochs=200          \
-          threshold_interval=0.0001     
+          epochs=100          \
+          threshold_interval=0.0005     

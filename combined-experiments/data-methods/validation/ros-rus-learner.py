@@ -45,7 +45,6 @@ dropout_rate = float(cli_args.get('dropout_rate', 0.5))
 
 activation = 'relu'
 learn_rate = 1e-3
-data_path = 'partd-2017-minmax-scaled.hdf5'
 
 
 # INITIALIZE LOGGER
@@ -58,7 +57,7 @@ logger.log_message('\n'.join(sys.argv[1:]))
 # DEFINE DIRECTORIES/PATHS
 # -------------------------------------------------- #
 # data
-hdf5_path = os.path.join(os.environ['CMS_ROOT'], 'data', data_path)
+hdf5_path = '/home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5'
 logger.log_message(hdf5_path)
 train_key = 'train_normalized'
 test_key = 'test_normalized'
