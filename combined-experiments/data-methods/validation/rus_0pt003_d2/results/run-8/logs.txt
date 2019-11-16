@@ -1,0 +1,384 @@
+Executing ../ros-rus-learner
+rus_rate=0.00305
+runs=10
+width=32
+depth=2
+epochs=100
+threshold_interval=0.001
+/home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5
+BEGINNING RUN 0: : 0 min, 0 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 7181
+Positive Samples: 4785
+Postive Class Ratio: 39.98830018385425
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED: 0 min, 18 sec
+BEGINNING TRAINING: 0 min, 18 sec
+TRAINING COMPLETE: 11 min, 8 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED: 33 min, 10 sec
+ENDING RUN 0: 33 min, 10 sec
+BEGINNING RUN 1: : 33 min, 10 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 7181
+Positive Samples: 4785
+Postive Class Ratio: 39.98830018385425
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED: 33 min, 20 sec
+BEGINNING TRAINING: 33 min, 20 sec
+TRAINING COMPLETE: 47 min, 59 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED: 70 min, 10 sec
+ENDING RUN 1: 70 min, 10 sec
+BEGINNING RUN 2: : 70 min, 10 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 7181
+Positive Samples: 4785
+Postive Class Ratio: 39.98830018385425
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED: 70 min, 21 sec
+BEGINNING TRAINING: 70 min, 21 sec
+TRAINING COMPLETE: 84 min, 50 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED: 107 min, 11 sec
+ENDING RUN 2: 107 min, 11 sec
+BEGINNING RUN 3: : 107 min, 11 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 7181
+Positive Samples: 4785
+Postive Class Ratio: 39.98830018385425
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED: 107 min, 23 sec
+BEGINNING TRAINING: 107 min, 23 sec
+TRAINING COMPLETE: 121 min, 59 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED: 144 min, 20 sec
+ENDING RUN 3: 144 min, 20 sec
+BEGINNING RUN 4: : 144 min, 20 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 7181
+Positive Samples: 4785
+Postive Class Ratio: 39.98830018385425
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED: 144 min, 32 sec
+BEGINNING TRAINING: 144 min, 32 sec
+TRAINING COMPLETE: 158 min, 55 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED: 181 min, 5 sec
+ENDING RUN 4: 181 min, 5 sec
+BEGINNING RUN 5: : 181 min, 5 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 7181
+Positive Samples: 4785
+Postive Class Ratio: 39.98830018385425
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED: 181 min, 17 sec
+BEGINNING TRAINING: 181 min, 17 sec
+TRAINING COMPLETE: 195 min, 45 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED: 217 min, 60 sec
+ENDING RUN 5: 217 min, 60 sec
+BEGINNING RUN 6: : 217 min, 60 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 7181
+Positive Samples: 4785
+Postive Class Ratio: 39.98830018385425
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED: 218 min, 11 sec
+BEGINNING TRAINING: 218 min, 11 sec
+TRAINING COMPLETE: 232 min, 49 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED: 254 min, 55 sec
+ENDING RUN 6: 254 min, 55 sec
+BEGINNING RUN 7: : 254 min, 55 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 7181
+Positive Samples: 4785
+Postive Class Ratio: 39.98830018385425
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED: 255 min, 7 sec
+BEGINNING TRAINING: 255 min, 7 sec
+TRAINING COMPLETE: 269 min, 50 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED: 292 min, 10 sec
+ENDING RUN 7: 292 min, 10 sec
