@@ -2284,4 +2284,2999 @@ FN:  446 	TP:  4339
 AUC:  0.9983689109416768
 Epoch 67: Validation Results
 TN:  261386 	FP:  232
-FN: 
+FN:  67 	TP:  465
+AUC:  0.9979416589831344
+Epoch 68: Training Results
+TN:  1907952 	FP:  1358
+FN:  514 	TP:  4271
+AUC:  0.9965561242897757
+Epoch 68: Validation Results
+TN:  261409 	FP:  209
+FN:  74 	TP:  458
+AUC:  0.9955186627210644
+Epoch 69: Training Results
+TN:  1907108 	FP:  2202
+FN:  176 	TP:  4609
+AUC:  0.9973658897612994
+Epoch 69: Validation Results
+TN:  261318 	FP:  300
+FN:  17 	TP:  515
+AUC:  0.9972337774578869
+Epoch 70: Training Results
+TN:  1907361 	FP:  1949
+FN:  386 	TP:  4399
+AUC:  0.9981030198904323
+Epoch 70: Validation Results
+TN:  261343 	FP:  275
+FN:  41 	TP:  491
+AUC:  0.9979876674922404
+Epoch 71: Training Results
+TN:  1908006 	FP:  1304
+FN:  674 	TP:  4111
+AUC:  0.9980953294757904
+Epoch 71: Validation Results
+TN:  261419 	FP:  199
+FN:  92 	TP:  440
+AUC:  0.9978225117813685
+Epoch 72: Training Results
+TN:  1908014 	FP:  1296
+FN:  688 	TP:  4097
+AUC:  0.9984272089037272
+Epoch 72: Validation Results
+TN:  261419 	FP:  199
+FN:  94 	TP:  438
+AUC:  0.9987672758772376
+Epoch 73: Training Results
+TN:  1908272 	FP:  1038
+FN:  884 	TP:  3901
+AUC:  0.9983810853518524
+Epoch 73: Validation Results
+TN:  261450 	FP:  168
+FN:  114 	TP:  418
+AUC:  0.9980064488216391
+Epoch 74: Training Results
+TN:  1907250 	FP:  2060
+FN:  393 	TP:  4392
+AUC:  0.9979442847410064
+Epoch 74: Validation Results
+TN:  261332 	FP:  286
+FN:  50 	TP:  482
+AUC:  0.9979772170547461
+Epoch 75: Training Results
+TN:  1907109 	FP:  2201
+FN:  190 	TP:  4595
+AUC:  0.9984261004923427
+Epoch 75: Validation Results
+TN:  261318 	FP:  300
+FN:  19 	TP:  513
+AUC:  0.9987235377966278
+Epoch 76: Training Results
+TN:  1908035 	FP:  1275
+FN:  688 	TP:  4097
+AUC:  0.9979161120573536
+Epoch 76: Validation Results
+TN:  261419 	FP:  199
+FN:  94 	TP:  438
+AUC:  0.99798459953981
+Epoch 77: Training Results
+TN:  1908038 	FP:  1272
+FN:  722 	TP:  4063
+AUC:  0.9985015235826767
+Epoch 77: Validation Results
+TN:  261420 	FP:  198
+FN:  102 	TP:  430
+AUC:  0.998710461278072
+Epoch 78: Training Results
+TN:  1908023 	FP:  1287
+FN:  688 	TP:  4097
+AUC:  0.9978217256260471
+Epoch 78: Validation Results
+TN:  261416 	FP:  202
+FN:  94 	TP:  438
+AUC:  0.9978716672768084
+Epoch 79: Training Results
+TN:  1907184 	FP:  2126
+FN:  190 	TP:  4595
+AUC:  0.9985045292038106
+Epoch 79: Validation Results
+TN:  261327 	FP:  291
+FN:  19 	TP:  513
+AUC:  0.9987290414302619
+Epoch 80: Training Results
+TN:  1907294 	FP:  2016
+FN:  364 	TP:  4421
+AUC:  0.9983290118533579
+Epoch 80: Validation Results
+TN:  261337 	FP:  281
+FN:  39 	TP:  493
+AUC:  0.9987002910516896
+Epoch 81: Training Results
+TN:  1908023 	FP:  1287
+FN:  674 	TP:  4111
+AUC:  0.9983354260050519
+Epoch 81: Validation Results
+TN:  261419 	FP:  199
+FN:  92 	TP:  440
+AUC:  0.997925166044483
+Epoch 82: Training Results
+TN:  1907202 	FP:  2108
+FN:  212 	TP:  4573
+AUC:  0.9984019832272452
+Epoch 82: Validation Results
+TN:  261328 	FP:  290
+FN:  21 	TP:  511
+AUC:  0.9983826573865345
+Epoch 83: Training Results
+TN:  1907439 	FP:  1871
+FN:  432 	TP:  4353
+AUC:  0.998245173089523
+Epoch 83: Validation Results
+TN:  261355 	FP:  263
+FN:  46 	TP:  486
+AUC:  0.9988389811822863
+Epoch 84: Training Results
+TN:  1908026 	FP:  1284
+FN:  598 	TP:  4187
+AUC:  0.9973188075345507
+Epoch 84: Validation Results
+TN:  261419 	FP:  199
+FN:  87 	TP:  445
+AUC:  0.9979382533403895
+Epoch 85: Training Results
+TN:  1908561 	FP:  749
+FN:  1053 	TP:  3732
+AUC:  0.998237837751811
+Epoch 85: Validation Results
+TN:  261495 	FP:  123
+FN:  131 	TP:  401
+AUC:  0.9978135270635364
+Epoch 86: Training Results
+TN:  1908274 	FP:  1036
+FN:  877 	TP:  3908
+AUC:  0.9983103837776868
+Epoch 86: Validation Results
+TN:  261450 	FP:  168
+FN:  111 	TP:  421
+AUC:  0.9981659428310703
+Epoch 87: Training Results
+TN:  1908077 	FP:  1233
+FN:  674 	TP:  4111
+AUC:  0.998116536839475
+Epoch 87: Validation Results
+TN:  261423 	FP:  195
+FN:  92 	TP:  440
+AUC:  0.9980026300471266
+Epoch 88: Training Results
+TN:  1908814 	FP:  496
+FN:  1300 	TP:  3485
+AUC:  0.9981297792168538
+Epoch 88: Validation Results
+TN:  261538 	FP:  80
+FN:  160 	TP:  372
+AUC:  0.99756124725156
+Epoch 89: Training Results
+TN:  1908050 	FP:  1260
+FN:  674 	TP:  4111
+AUC:  0.9977662137153641
+Epoch 89: Validation Results
+TN:  261423 	FP:  195
+FN:  92 	TP:  440
+AUC:  0.9978941416449639
+Epoch 90: Training Results
+TN:  1907377 	FP:  1933
+FN:  386 	TP:  4399
+AUC:  0.9980863259113553
+Epoch 90: Validation Results
+TN:  261346 	FP:  272
+FN:  41 	TP:  491
+AUC:  0.997836637295369
+Epoch 91: Training Results
+TN:  1908055 	FP:  1255
+FN:  688 	TP:  4097
+AUC:  0.9979439970892886
+Epoch 91: Validation Results
+TN:  261422 	FP:  196
+FN:  94 	TP:  438
+AUC:  0.9979764374930631
+Epoch 92: Training Results
+TN:  1908109 	FP:  1201
+FN:  688 	TP:  4097
+AUC:  0.9982316497920024
+Epoch 92: Validation Results
+TN:  261426 	FP:  192
+FN:  94 	TP:  438
+AUC:  0.9981957206503863
+Epoch 93: Training Results
+TN:  1908041 	FP:  1269
+FN:  688 	TP:  4097
+AUC:  0.9981878817990275
+Epoch 93: Validation Results
+TN:  261422 	FP:  196
+FN:  94 	TP:  438
+AUC:  0.9979788336573149
+Epoch 94: Training Results
+TN:  1907421 	FP:  1889
+FN:  432 	TP:  4353
+AUC:  0.9979290801914376
+Epoch 94: Validation Results
+TN:  261352 	FP:  266
+FN:  46 	TP:  486
+AUC:  0.9978553898851662
+Epoch 95: Training Results
+TN:  1907502 	FP:  1808
+FN:  436 	TP:  4349
+AUC:  0.998286840447818
+Epoch 95: Validation Results
+TN:  261360 	FP:  258
+FN:  46 	TP:  486
+AUC:  0.9981087330623879
+Epoch 96: Training Results
+TN:  1908284 	FP:  1026
+FN:  877 	TP:  3908
+AUC:  0.9984898016109995
+Epoch 96: Validation Results
+TN:  261450 	FP:  168
+FN:  111 	TP:  421
+AUC:  0.9986674991666954
+Epoch 97: Training Results
+TN:  1908028 	FP:  1282
+FN:  642 	TP:  4143
+AUC:  0.9984261566435338
+Epoch 97: Validation Results
+TN:  261417 	FP:  201
+FN:  89 	TP:  443
+AUC:  0.9985705856389248
+Epoch 98: Training Results
+TN:  1908286 	FP:  1024
+FN:  881 	TP:  3904
+AUC:  0.9984582433279263
+Epoch 98: Validation Results
+TN:  261450 	FP:  168
+FN:  111 	TP:  421
+AUC:  0.998725750745922
+Epoch 99: Training Results
+TN:  1907224 	FP:  2086
+FN:  212 	TP:  4573
+AUC:  0.9981913496002897
+Epoch 99: Validation Results
+TN:  261327 	FP:  291
+FN:  21 	TP:  511
+AUC:  0.997882146453904
+TRAINING COMPLETE 357 min, 5 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED 496 min, 5 sec
+ENDING RUN 2 496 min, 5 sec
+BEGINNING RUN 3:  496 min, 5 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 1909310
+Positive Samples: 4785
+Postive Class Ratio: 0.24998759204741663
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED 496 min, 12 sec
+BEGINNING TRAINING 496 min, 12 sec
+Epoch 0: Training Results
+TN:  1909238 	FP:  72
+FN:  4742 	TP:  43
+AUC:  0.9898876118579212
+Epoch 0: Validation Results
+TN:  261613 	FP:  5
+FN:  523 	TP:  9
+AUC:  0.9866747330105416
+Epoch 1: Training Results
+TN:  1908856 	FP:  454
+FN:  1819 	TP:  2966
+AUC:  0.9942110720112378
+Epoch 1: Validation Results
+TN:  261553 	FP:  65
+FN:  197 	TP:  335
+AUC:  0.9941981786335206
+Epoch 2: Training Results
+TN:  1909180 	FP:  130
+FN:  2062 	TP:  2723
+AUC:  0.9948551059277178
+Epoch 2: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9951134199740342
+Epoch 3: Training Results
+TN:  1909169 	FP:  141
+FN:  2062 	TP:  2723
+AUC:  0.9954691696109511
+Epoch 3: Validation Results
+TN:  261588 	FP:  30
+FN:  233 	TP:  299
+AUC:  0.9959516930700257
+Epoch 4: Training Results
+TN:  1909200 	FP:  110
+FN:  2062 	TP:  2723
+AUC:  0.99536767146159
+Epoch 4: Validation Results
+TN:  261592 	FP:  26
+FN:  233 	TP:  299
+AUC:  0.995526860692313
+Epoch 5: Training Results
+TN:  1909188 	FP:  122
+FN:  2062 	TP:  2723
+AUC:  0.9940034551699806
+Epoch 5: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9932768732371487
+Epoch 6: Training Results
+TN:  1909194 	FP:  116
+FN:  2062 	TP:  2723
+AUC:  0.9941045979687707
+Epoch 6: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9929968237854918
+Epoch 7: Training Results
+TN:  1909198 	FP:  112
+FN:  2062 	TP:  2723
+AUC:  0.9948345699155587
+Epoch 7: Validation Results
+TN:  261592 	FP:  26
+FN:  233 	TP:  299
+AUC:  0.9951186541739069
+Epoch 8: Training Results
+TN:  1909183 	FP:  127
+FN:  2062 	TP:  2723
+AUC:  0.9952718219797949
+Epoch 8: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9956873749575875
+Epoch 9: Training Results
+TN:  1909188 	FP:  122
+FN:  2063 	TP:  2722
+AUC:  0.995608721083443
+Epoch 9: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9968101629207757
+Epoch 10: Training Results
+TN:  1909187 	FP:  123
+FN:  2062 	TP:  2723
+AUC:  0.9950598187782138
+Epoch 10: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9954158288354421
+Epoch 11: Training Results
+TN:  1909187 	FP:  123
+FN:  2062 	TP:  2723
+AUC:  0.9961662179688443
+Epoch 11: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9972481652207486
+Epoch 12: Training Results
+TN:  1909198 	FP:  112
+FN:  2063 	TP:  2722
+AUC:  0.9960762579589457
+Epoch 12: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9967112268435693
+Epoch 13: Training Results
+TN:  1909188 	FP:  122
+FN:  2062 	TP:  2723
+AUC:  0.995669762189908
+Epoch 13: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.996091945916439
+Epoch 14: Training Results
+TN:  1909187 	FP:  123
+FN:  2062 	TP:  2723
+AUC:  0.9959170858591176
+Epoch 14: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9964619143954191
+Epoch 15: Training Results
+TN:  1909186 	FP:  124
+FN:  2062 	TP:  2723
+AUC:  0.9956430858315236
+Epoch 15: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9964900648348161
+Epoch 16: Training Results
+TN:  1909196 	FP:  114
+FN:  2062 	TP:  2723
+AUC:  0.9962528615558388
+Epoch 16: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.996898720409491
+Epoch 17: Training Results
+TN:  1909193 	FP:  117
+FN:  2062 	TP:  2723
+AUC:  0.9958670054542783
+Epoch 17: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9965421122526289
+Epoch 18: Training Results
+TN:  1909195 	FP:  115
+FN:  2062 	TP:  2723
+AUC:  0.9960027206401552
+Epoch 18: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9971058682701984
+Epoch 19: Training Results
+TN:  1909196 	FP:  114
+FN:  2062 	TP:  2723
+AUC:  0.9956438054533718
+Epoch 19: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9966363494050356
+Epoch 20: Training Results
+TN:  1909193 	FP:  117
+FN:  2062 	TP:  2723
+AUC:  0.9954557499687487
+Epoch 20: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9962032579844217
+Epoch 21: Training Results
+TN:  1909194 	FP:  116
+FN:  2062 	TP:  2723
+AUC:  0.9960897043632655
+Epoch 21: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9967441983510711
+Epoch 22: Training Results
+TN:  1909204 	FP:  106
+FN:  2062 	TP:  2723
+AUC:  0.9964596587319943
+Epoch 22: Validation Results
+TN:  261592 	FP:  26
+FN:  233 	TP:  299
+AUC:  0.9970878126157308
+Epoch 23: Training Results
+TN:  1909199 	FP:  111
+FN:  2062 	TP:  2723
+AUC:  0.9961128413358277
+Epoch 23: Validation Results
+TN:  261591 	FP:  27
+FN:  233 	TP:  299
+AUC:  0.9970111425445709
+Epoch 24: Training Results
+TN:  1909189 	FP:  121
+FN:  2063 	TP:  2722
+AUC:  0.9959209640128492
+Epoch 24: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.997655628101973
+Epoch 25: Training Results
+TN:  1909199 	FP:  111
+FN:  2062 	TP:  2723
+AUC:  0.9964826067826141
+Epoch 25: Validation Results
+TN:  261591 	FP:  27
+FN:  233 	TP:  299
+AUC:  0.9974001869338621
+Epoch 26: Training Results
+TN:  1909189 	FP:  121
+FN:  2062 	TP:  2723
+AUC:  0.9961370923567847
+Epoch 26: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9972052821432754
+Epoch 27: Training Results
+TN:  1909207 	FP:  103
+FN:  2062 	TP:  2723
+AUC:  0.9969187350020976
+Epoch 27: Validation Results
+TN:  261594 	FP:  24
+FN:  233 	TP:  299
+AUC:  0.998055888120641
+Epoch 28: Training Results
+TN:  1909202 	FP:  108
+FN:  2062 	TP:  2723
+AUC:  0.9959824321639015
+Epoch 28: Validation Results
+TN:  261592 	FP:  26
+FN:  233 	TP:  299
+AUC:  0.9970441391992239
+Epoch 29: Training Results
+TN:  1909185 	FP:  125
+FN:  2062 	TP:  2723
+AUC:  0.9958423418917215
+Epoch 29: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9971207266440302
+Epoch 30: Training Results
+TN:  1909196 	FP:  114
+FN:  2062 	TP:  2723
+AUC:  0.9950232453618748
+Epoch 30: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9961519182792888
+Epoch 31: Training Results
+TN:  1909198 	FP:  112
+FN:  2062 	TP:  2723
+AUC:  0.9952698923161896
+Epoch 31: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9960044338307181
+Epoch 32: Training Results
+TN:  1909204 	FP:  106
+FN:  2062 	TP:  2723
+AUC:  0.9960533111123475
+Epoch 32: Validation Results
+TN:  261594 	FP:  24
+FN:  233 	TP:  299
+AUC:  0.9960853537704086
+Epoch 33: Training Results
+TN:  1909190 	FP:  120
+FN:  2062 	TP:  2723
+AUC:  0.9961000035097232
+Epoch 33: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9974277482114341
+Epoch 34: Training Results
+TN:  1909222 	FP:  88
+FN:  2062 	TP:  2723
+AUC:  0.9954396238500641
+Epoch 34: Validation Results
+TN:  261599 	FP:  19
+FN:  233 	TP:  299
+AUC:  0.9961023101351296
+Epoch 35: Training Results
+TN:  1909191 	FP:  119
+FN:  2062 	TP:  2723
+AUC:  0.9957175760787212
+Epoch 35: Validation Results
+TN:  261589 	FP:  29
+FN:  233 	TP:  299
+AUC:  0.9969584700404315
+Epoch 36: Training Results
+TN:  1909205 	FP:  105
+FN:  2062 	TP:  2723
+AUC:  0.9952980097243028
+Epoch 36: Validation Results
+TN:  261594 	FP:  24
+FN:  233 	TP:  299
+AUC:  0.9967648729017001
+Epoch 37: Training Results
+TN:  1909196 	FP:  114
+FN:  2062 	TP:  2723
+AUC:  0.994695987625766
+Epoch 37: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.996517956617802
+Epoch 38: Training Results
+TN:  1909192 	FP:  118
+FN:  2062 	TP:  2723
+AUC:  0.995854245944309
+Epoch 38: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.9971641234418753
+Epoch 39: Training Results
+TN:  1909220 	FP:  90
+FN:  2062 	TP:  2723
+AUC:  0.995779104430856
+Epoch 39: Validation Results
+TN:  261596 	FP:  22
+FN:  233 	TP:  299
+AUC:  0.9970184388108311
+Epoch 40: Training Results
+TN:  1909192 	FP:  118
+FN:  2062 	TP:  2723
+AUC:  0.9953924146537599
+Epoch 40: Validation Results
+TN:  261590 	FP:  28
+FN:  233 	TP:  299
+AUC:  0.996178502410419
+Epoch 41: Training Results
+TN:  1909232 	FP:  78
+FN:  2062 	TP:  2723
+AUC:  0.9951659443658704
+Epoch 41: Validation Results
+TN:  261602 	FP:  16
+FN:  233 	TP:  299
+AUC:  0.9957538352854133
+Epoch 42: Training Results
+TN:  1909251 	FP:  59
+FN:  2062 	TP:  2723
+AUC:  0.996113912860367
+Epoch 42: Validation Results
+TN:  261609 	FP:  9
+FN:  233 	TP:  299
+AUC:  0.9969374182825365
+Epoch 43: Training Results
+TN:  1909204 	FP:  106
+FN:  2062 	TP:  2723
+AUC:  0.9959409619915158
+Epoch 43: Validation Results
+TN:  261594 	FP:  24
+FN:  233 	TP:  299
+AUC:  0.9970666351220804
+Epoch 44: Training Results
+TN:  1909204 	FP:  106
+FN:  2062 	TP:  2723
+AUC:  0.9959081027630508
+Epoch 44: Validation Results
+TN:  261592 	FP:  26
+FN:  233 	TP:  299
+AUC:  0.9970329127924965
+Epoch 45: Training Results
+TN:  1909255 	FP:  55
+FN:  2062 	TP:  2723
+AUC:  0.9959897488940063
+Epoch 45: Validation Results
+TN:  261608 	FP:  10
+FN:  233 	TP:  299
+AUC:  0.9972603148871652
+Epoch 46: Training Results
+TN:  1909244 	FP:  66
+FN:  2062 	TP:  2723
+AUC:  0.9958595868748877
+Epoch 46: Validation Results
+TN:  261604 	FP:  14
+FN:  233 	TP:  299
+AUC:  0.9964796575067235
+Epoch 47: Training Results
+TN:  1909242 	FP:  68
+FN:  2062 	TP:  2723
+AUC:  0.9959393716431022
+Epoch 47: Validation Results
+TN:  261603 	FP:  15
+FN:  233 	TP:  299
+AUC:  0.9970024021133495
+Epoch 48: Training Results
+TN:  1909231 	FP:  79
+FN:  2062 	TP:  2723
+AUC:  0.9960337662836473
+Epoch 48: Validation Results
+TN:  261601 	FP:  17
+FN:  233 	TP:  299
+AUC:  0.9974177576075591
+Epoch 49: Training Results
+TN:  1909225 	FP:  85
+FN:  2062 	TP:  2723
+AUC:  0.9956277462673454
+Epoch 49: Validation Results
+TN:  261599 	FP:  19
+FN:  233 	TP:  299
+AUC:  0.9967313194172736
+Epoch 50: Training Results
+TN:  1909226 	FP:  84
+FN:  2062 	TP:  2723
+AUC:  0.9963432502521729
+Epoch 50: Validation Results
+TN:  261598 	FP:  20
+FN:  233 	TP:  299
+AUC:  0.9970256057488859
+Epoch 51: Training Results
+TN:  1909250 	FP:  60
+FN:  2062 	TP:  2723
+AUC:  0.9959691157939198
+Epoch 51: Validation Results
+TN:  261607 	FP:  11
+FN:  233 	TP:  299
+AUC:  0.9966706788586953
+Epoch 52: Training Results
+TN:  1909228 	FP:  82
+FN:  2062 	TP:  2723
+AUC:  0.9956794992771684
+Epoch 52: Validation Results
+TN:  261601 	FP:  17
+FN:  233 	TP:  299
+AUC:  0.997162916378624
+Epoch 53: Training Results
+TN:  1909292 	FP:  18
+FN:  2062 	TP:  2723
+AUC:  0.996065865391354
+Epoch 53: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9972180317488675
+Epoch 54: Training Results
+TN:  1909234 	FP:  76
+FN:  2062 	TP:  2723
+AUC:  0.9956417741046653
+Epoch 54: Validation Results
+TN:  261601 	FP:  17
+FN:  233 	TP:  299
+AUC:  0.9969800606658494
+Epoch 55: Training Results
+TN:  1909244 	FP:  66
+FN:  2061 	TP:  2724
+AUC:  0.9962893996177243
+Epoch 55: Validation Results
+TN:  261604 	FP:  14
+FN:  233 	TP:  299
+AUC:  0.9972608968640899
+Epoch 56: Training Results
+TN:  1909222 	FP:  88
+FN:  2062 	TP:  2723
+AUC:  0.9960359629116893
+Epoch 56: Validation Results
+TN:  261596 	FP:  22
+FN:  233 	TP:  299
+AUC:  0.9970868210994887
+Epoch 57: Training Results
+TN:  1909303 	FP:  7
+FN:  2062 	TP:  2723
+AUC:  0.9967177855949066
+Epoch 57: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9978523686345878
+Epoch 58: Training Results
+TN:  1909197 	FP:  113
+FN:  2061 	TP:  2724
+AUC:  0.9952366851254679
+Epoch 58: Validation Results
+TN:  261592 	FP:  26
+FN:  233 	TP:  299
+AUC:  0.9965690699985751
+Epoch 59: Training Results
+TN:  1909199 	FP:  111
+FN:  2061 	TP:  2724
+AUC:  0.9957546681547498
+Epoch 59: Validation Results
+TN:  261593 	FP:  25
+FN:  233 	TP:  299
+AUC:  0.9970793200635696
+Epoch 60: Training Results
+TN:  1909286 	FP:  24
+FN:  2062 	TP:  2723
+AUC:  0.9961818977238668
+Epoch 60: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9974306437262572
+Epoch 61: Training Results
+TN:  1909296 	FP:  14
+FN:  2062 	TP:  2723
+AUC:  0.995858867143583
+Epoch 61: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9974211704352044
+Epoch 62: Training Results
+TN:  1909284 	FP:  26
+FN:  2062 	TP:  2723
+AUC:  0.9956346550530242
+Epoch 62: Validation Results
+TN:  261615 	FP:  3
+FN:  233 	TP:  299
+AUC:  0.9965074307388543
+Epoch 63: Training Results
+TN:  1909237 	FP:  73
+FN:  2062 	TP:  2723
+AUC:  0.9962935810754547
+Epoch 63: Validation Results
+TN:  261601 	FP:  17
+FN:  233 	TP:  299
+AUC:  0.997412954501705
+Epoch 64: Training Results
+TN:  1909271 	FP:  39
+FN:  2062 	TP:  2723
+AUC:  0.9970525094145325
+Epoch 64: Validation Results
+TN:  261614 	FP:  4
+FN:  233 	TP:  299
+AUC:  0.9982232747430579
+Epoch 65: Training Results
+TN:  1909253 	FP:  57
+FN:  2062 	TP:  2723
+AUC:  0.9970673039947298
+Epoch 65: Validation Results
+TN:  261608 	FP:  10
+FN:  233 	TP:  299
+AUC:  0.9984899459103461
+Epoch 66: Training Results
+TN:  1909229 	FP:  81
+FN:  2062 	TP:  2723
+AUC:  0.9957324071626658
+Epoch 66: Validation Results
+TN:  261600 	FP:  18
+FN:  233 	TP:  299
+AUC:  0.9965153449065408
+Epoch 67: Training Results
+TN:  1909253 	FP:  57
+FN:  2062 	TP:  2723
+AUC:  0.9956543484142135
+Epoch 67: Validation Results
+TN:  261607 	FP:  11
+FN:  233 	TP:  299
+AUC:  0.9969988348103476
+Epoch 68: Training Results
+TN:  1909269 	FP:  41
+FN:  2062 	TP:  2723
+AUC:  0.9960723945818434
+Epoch 68: Validation Results
+TN:  261613 	FP:  5
+FN:  233 	TP:  299
+AUC:  0.9970969985107714
+Epoch 69: Training Results
+TN:  1909268 	FP:  42
+FN:  2062 	TP:  2723
+AUC:  0.9960024448097412
+Epoch 69: Validation Results
+TN:  261613 	FP:  5
+FN:  233 	TP:  299
+AUC:  0.9973224355352064
+Epoch 70: Training Results
+TN:  1909281 	FP:  29
+FN:  2062 	TP:  2723
+AUC:  0.9964332108093539
+Epoch 70: Validation Results
+TN:  261616 	FP:  2
+FN:  233 	TP:  299
+AUC:  0.9972879120892386
+Epoch 71: Training Results
+TN:  1909306 	FP:  4
+FN:  2062 	TP:  2723
+AUC:  0.9963140192882189
+Epoch 71: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9971908656408124
+Epoch 72: Training Results
+TN:  1909302 	FP:  8
+FN:  2062 	TP:  2723
+AUC:  0.995777748866664
+Epoch 72: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9972162858180931
+Epoch 73: Training Results
+TN:  1909303 	FP:  7
+FN:  2062 	TP:  2723
+AUC:  0.9958713763812337
+Epoch 73: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9969459359818486
+Epoch 74: Training Results
+TN:  1909250 	FP:  60
+FN:  2062 	TP:  2723
+AUC:  0.996542610788613
+Epoch 74: Validation Results
+TN:  261607 	FP:  11
+FN:  233 	TP:  299
+AUC:  0.9978496994441245
+Epoch 75: Training Results
+TN:  1909262 	FP:  48
+FN:  2062 	TP:  2723
+AUC:  0.9969521429907933
+Epoch 75: Validation Results
+TN:  261613 	FP:  5
+FN:  233 	TP:  299
+AUC:  0.9983325894087557
+Epoch 76: Training Results
+TN:  1909280 	FP:  30
+FN:  2062 	TP:  2723
+AUC:  0.9965983839172655
+Epoch 76: Validation Results
+TN:  261615 	FP:  3
+FN:  233 	TP:  299
+AUC:  0.9983962368481119
+Epoch 77: Training Results
+TN:  1909239 	FP:  71
+FN:  2062 	TP:  2723
+AUC:  0.9956645202080175
+Epoch 77: Validation Results
+TN:  261601 	FP:  17
+FN:  233 	TP:  299
+AUC:  0.9976474121684736
+Epoch 78: Training Results
+TN:  1909230 	FP:  80
+FN:  2062 	TP:  2723
+AUC:  0.996918571638251
+Epoch 78: Validation Results
+TN:  261601 	FP:  17
+FN:  233 	TP:  299
+AUC:  0.9986411233976737
+Epoch 79: Training Results
+TN:  1909268 	FP:  42
+FN:  2062 	TP:  2723
+AUC:  0.9960079215211248
+Epoch 79: Validation Results
+TN:  261613 	FP:  5
+FN:  233 	TP:  299
+AUC:  0.9974185695012938
+Epoch 80: Training Results
+TN:  1909295 	FP:  15
+FN:  2062 	TP:  2723
+AUC:  0.996880862008573
+Epoch 80: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9985985349011129
+Epoch 81: Training Results
+TN:  1909242 	FP:  68
+FN:  2062 	TP:  2723
+AUC:  0.9968465485408691
+Epoch 81: Validation Results
+TN:  261601 	FP:  17
+FN:  233 	TP:  299
+AUC:  0.998164031647589
+Epoch 82: Training Results
+TN:  1909265 	FP:  45
+FN:  2062 	TP:  2723
+AUC:  0.9960887251652953
+Epoch 82: Validation Results
+TN:  261613 	FP:  5
+FN:  233 	TP:  299
+AUC:  0.9970079344865845
+Epoch 83: Training Results
+TN:  1909273 	FP:  37
+FN:  2062 	TP:  2723
+AUC:  0.9958017995274729
+Epoch 83: Validation Results
+TN:  261613 	FP:  5
+FN:  233 	TP:  299
+AUC:  0.9969912116311236
+Epoch 84: Training Results
+TN:  1909266 	FP:  44
+FN:  2062 	TP:  2723
+AUC:  0.9966586073288459
+Epoch 84: Validation Results
+TN:  261614 	FP:  4
+FN:  233 	TP:  299
+AUC:  0.9979662205648286
+Epoch 85: Training Results
+TN:  1909261 	FP:  49
+FN:  2062 	TP:  2723
+AUC:  0.9962448013423663
+Epoch 85: Validation Results
+TN:  261612 	FP:  6
+FN:  233 	TP:  299
+AUC:  0.9978350314701507
+Epoch 86: Training Results
+TN:  1909153 	FP:  157
+FN:  1881 	TP:  2904
+AUC:  0.9961759028453478
+Epoch 86: Validation Results
+TN:  261599 	FP:  19
+FN:  218 	TP:  314
+AUC:  0.9973327243124438
+Epoch 87: Training Results
+TN:  1909298 	FP:  12
+FN:  2062 	TP:  2723
+AUC:  0.9973827572289501
+Epoch 87: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9984173065682577
+Epoch 88: Training Results
+TN:  1909285 	FP:  25
+FN:  2062 	TP:  2723
+AUC:  0.9964532069272598
+Epoch 88: Validation Results
+TN:  261616 	FP:  2
+FN:  233 	TP:  299
+AUC:  0.9982284263165769
+Epoch 89: Training Results
+TN:  1909290 	FP:  20
+FN:  2062 	TP:  2723
+AUC:  0.9961430795186192
+Epoch 89: Validation Results
+TN:  261617 	FP:  1
+FN:  233 	TP:  299
+AUC:  0.9977479325161975
+Epoch 90: Training Results
+TN:  1909278 	FP:  32
+FN:  2062 	TP:  2723
+AUC:  0.9966409787005999
+Epoch 90: Validation Results
+TN:  261615 	FP:  3
+FN:  233 	TP:  299
+AUC:  0.9982618145482965
+Epoch 91: Training Results
+TN:  1909286 	FP:  24
+FN:  2062 	TP:  2723
+AUC:  0.9959107690689926
+Epoch 91: Validation Results
+TN:  261616 	FP:  2
+FN:  233 	TP:  299
+AUC:  0.9966766818429005
+Epoch 92: Training Results
+TN:  1909309 	FP:  1
+FN:  2062 	TP:  2723
+AUC:  0.996853820831629
+Epoch 92: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9982752610892183
+Epoch 93: Training Results
+TN:  1909279 	FP:  31
+FN:  1880 	TP:  2905
+AUC:  0.9957967238647549
+Epoch 93: Validation Results
+TN:  261616 	FP:  2
+FN:  215 	TP:  317
+AUC:  0.9969064010679176
+Epoch 94: Training Results
+TN:  1909281 	FP:  29
+FN:  2062 	TP:  2723
+AUC:  0.9960969650516353
+Epoch 94: Validation Results
+TN:  261615 	FP:  3
+FN:  233 	TP:  299
+AUC:  0.9970920840389623
+Epoch 95: Training Results
+TN:  1909284 	FP:  26
+FN:  2062 	TP:  2723
+AUC:  0.9969296992610597
+Epoch 95: Validation Results
+TN:  261615 	FP:  3
+FN:  233 	TP:  299
+AUC:  0.9982558977828949
+Epoch 96: Training Results
+TN:  1909279 	FP:  31
+FN:  2062 	TP:  2723
+AUC:  0.9970604006271486
+Epoch 96: Validation Results
+TN:  261615 	FP:  3
+FN:  233 	TP:  299
+AUC:  0.9984797828688641
+Epoch 97: Training Results
+TN:  1909002 	FP:  308
+FN:  1818 	TP:  2967
+AUC:  0.9963423227724052
+Epoch 97: Validation Results
+TN:  261576 	FP:  42
+FN:  207 	TP:  325
+AUC:  0.9977676909920377
+Epoch 98: Training Results
+TN:  1909307 	FP:  3
+FN:  2062 	TP:  2723
+AUC:  0.9969181507232283
+Epoch 98: Validation Results
+TN:  261618 	FP:  0
+FN:  233 	TP:  299
+AUC:  0.9985833639841181
+Epoch 99: Training Results
+TN:  1909260 	FP:  50
+FN:  2062 	TP:  2723
+AUC:  0.9962493497530582
+Epoch 99: Validation Results
+TN:  261612 	FP:  6
+FN:  233 	TP:  299
+AUC:  0.9977786264103025
+TRAINING COMPLETE 571 min, 14 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED 643 min, 17 sec
+ENDING RUN 3 643 min, 17 sec
+BEGINNING RUN 4:  643 min, 17 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 1909310
+Positive Samples: 4785
+Postive Class Ratio: 0.24998759204741663
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED 643 min, 22 sec
+BEGINNING TRAINING 643 min, 22 sec
+Epoch 0: Training Results
+TN:  1908653 	FP:  657
+FN:  1472 	TP:  3313
+AUC:  0.9939868321734527
+Epoch 0: Validation Results
+TN:  261527 	FP:  91
+FN:  156 	TP:  376
+AUC:  0.995650649339676
+Epoch 1: Training Results
+TN:  1907748 	FP:  1562
+FN:  818 	TP:  3967
+AUC:  0.9956486847511047
+Epoch 1: Validation Results
+TN:  261412 	FP:  206
+FN:  90 	TP:  442
+AUC:  0.9960274111418951
+Epoch 2: Training Results
+TN:  1907944 	FP:  1366
+FN:  1007 	TP:  3778
+AUC:  0.9945780303362777
+Epoch 2: Validation Results
+TN:  261435 	FP:  183
+FN:  107 	TP:  425
+AUC:  0.9960357312564487
+Epoch 3: Training Results
+TN:  1909152 	FP:  158
+FN:  2078 	TP:  2707
+AUC:  0.9946236364872127
+Epoch 3: Validation Results
+TN:  261603 	FP:  15
+FN:  217 	TP:  315
+AUC:  0.9959426724276921
+Epoch 4: Training Results
+TN:  1908524 	FP:  786
+FN:  1472 	TP:  3313
+AUC:  0.9953232763922489
+Epoch 4: Validation Results
+TN:  261516 	FP:  102
+FN:  156 	TP:  376
+AUC:  0.9963098387955532
+Epoch 5: Training Results
+TN:  1908328 	FP:  982
+FN:  1293 	TP:  3492
+AUC:  0.9951786702726897
+Epoch 5: Validation Results
+TN:  261490 	FP:  128
+FN:  141 	TP:  391
+AUC:  0.996610487356386
+Epoch 6: Training Results
+TN:  1907964 	FP:  1346
+FN:  1007 	TP:  3778
+AUC:  0.9952653639907674
+Epoch 6: Validation Results
+TN:  261438 	FP:  180
+FN:  107 	TP:  425
+AUC:  0.9962851263309525
+Epoch 7: Training Results
+TN:  1908651 	FP:  659
+FN:  1539 	TP:  3246
+AUC:  0.9959350297221227
+Epoch 7: Validation Results
+TN:  261533 	FP:  85
+FN:  164 	TP:  368
+AUC:  0.9966417740047663
+Epoch 8: Training Results
+TN:  1908943 	FP:  367
+FN:  1813 	TP:  2972
+AUC:  0.9957644775380375
+Epoch 8: Validation Results
+TN:  261578 	FP:  40
+FN:  187 	TP:  345
+AUC:  0.9965497533941038
+Epoch 9: Training Results
+TN:  1908518 	FP:  792
+FN:  1472 	TP:  3313
+AUC:  0.9965408262096161
+Epoch 9: Validation Results
+TN:  261513 	FP:  105
+FN:  156 	TP:  376
+AUC:  0.9974052738432786
+Epoch 10: Training Results
+TN:  1908527 	FP:  783
+FN:  1472 	TP:  3313
+AUC:  0.9969642006108692
+Epoch 10: Validation Results
+TN:  261513 	FP:  105
+FN:  156 	TP:  376
+AUC:  0.9979577567522686
+Epoch 11: Training Results
+TN:  1909149 	FP:  161
+FN:  2011 	TP:  2774
+AUC:  0.9963301251027202
+Epoch 11: Validation Results
+TN:  261598 	FP:  20
+FN:  209 	TP:  323
+AUC:  0.9974683788226616
+Epoch 12: Training Results
+TN:  1909174 	FP:  136
+FN:  2078 	TP:  2707
+AUC:  0.9962966081500652
+Epoch 12: Validation Results
+TN:  261603 	FP:  15
+FN:  217 	TP:  315
+AUC:  0.9974238863275199
+Epoch 13: Training Results
+TN:  1909165 	FP:  145
+FN:  2078 	TP:  2707
+AUC:  0.997312510008772
+Epoch 13: Validation Results
+TN:  261603 	FP:  15
+FN:  217 	TP:  315
+AUC:  0.9980990550016764
+Epoch 14: Training Results
+TN:  1908657 	FP:  653
+FN:  1539 	TP:  3246
+AUC:  0.9968893875216849
+Epoch 14: Validation Results
+TN:  261533 	FP:  85
+FN:  164 	TP:  368
+AUC:  0.9981539009381583
+Epoch 15: Training Results
+TN:  1909173 	FP:  137
+FN:  2078 	TP:  2707
+AUC:  0.9981208733970854
+Epoch 15: Validation Results
+TN:  261603 	FP:  15
+FN:  217 	TP:  315
+AUC:  0.9987010598360221
+Epoch 16: Training Results
+TN:  1909165 	FP:  145
+FN:  2078 	TP:  2707
+AUC:  0.9960986409950426
+Epoch 16: Validation Results
+TN:  261603 	FP:  15
+FN:  217 	TP:  315
+AUC:  0.9971699683582739
+Epoch 17: Training Results
+TN:  1909169 	FP:  141
+FN:  2078 	TP:  2707
+AUC:  0.9971568410646602
+Epoch 17: Validation Results
+TN:  261602 	FP:  16
+FN:  217 	TP:  315
+AUC:  0.9980269617120112
+Epoch 18: Training Results
+TN:  1909177 	FP:  133
+FN:  2078 	TP:  2707
+AUC:  0.9981556786529048
+Epoch 18: Validation Results
+TN:  261603 	FP:  15
+FN:  217 	TP:  315
+AUC:  0.9987130514346321
+Epoch 19: Training Results
+TN:  1909180 	FP:  130
+FN:  2078 	TP:  2707
+AUC:  0.9979129127529189
+Epoch 19: Validation Results
+TN:  261604 	FP:  14
+FN:  217 	TP:  315
+AUC:  0.9987548855166606
+Epoch 20: Training Results
+TN:  1909163 	FP:  147
+FN:  2078 	TP:  2707
+AUC:  0.997265788714877
+Epoch 20: Validation Results
+TN:  261602 	FP:  16
+FN:  217 	TP:  315
+AUC:  0.9984668105313625
+Epoch 21: Training Results
+TN:  1909163 	FP:  147
+FN:  2078 	TP:  2707
+AUC:  0.9969153064957236
+Epoch 21: Validation Results
+TN:  261602 	FP:  16
+FN:  217 	TP:  315
+AUC:  0.9979492426454067
+Epoch 22: Training Results
+TN:  1909176 	FP:  134
+FN:  2078 	TP:  2707
+AUC:  0.9972335407463119
+Epoch 22: Validation Results
+TN:  261603 	FP:  15
+FN:  217 	TP:  315
+AUC:  0.9982531351887275
+Epoch 23: Training Results
+TN:  1909230 	FP:  80
+FN:  2078 	TP:  2707
+AUC:  0.997377404914894
+Epoch 23: Validation Results
+TN:  261610 	FP:  8
+FN:  217 	TP:  315
+AUC:  0.9985882425314254
+Epoch 24: Training Results
+TN:  1909187 	FP:  123
+FN:  2078 	TP:  2707
+AUC:  0.997233653541249
+Epoch 24: Validation Results
+TN:  261605 	FP:  13
+FN:  217 	TP:  315
+AUC:  0.998264789097023
+Epoch 25: Training Results
+TN:  1909206 	FP:  104
+FN:  2078 	TP:  2707
+AUC:  0.997662664569852
+Epoch 25: Validation Results
+TN:  261605 	FP:  13
+FN:  217 	TP:  315
+AUC:  0.9983171634277997
+Epoch 26: Training Results
+TN:  1909288 	FP:  22
+FN:  2078 	TP:  2707
+AUC:  0.9973725444436818
+Epoch 26: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9982981342193408
+Epoch 27: Training Results
+TN:  1909281 	FP:  29
+FN:  2078 	TP:  2707
+AUC:  0.9977092683621798
+Epoch 27: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9982388659767207
+Epoch 28: Training Results
+TN:  1909207 	FP:  103
+FN:  2078 	TP:  2707
+AUC:  0.9974852341931838
+Epoch 28: Validation Results
+TN:  261605 	FP:  13
+FN:  217 	TP:  315
+AUC:  0.9985074662897411
+Epoch 29: Training Results
+TN:  1909255 	FP:  55
+FN:  2078 	TP:  2707
+AUC:  0.9979991414449991
+Epoch 29: Validation Results
+TN:  261612 	FP:  6
+FN:  217 	TP:  315
+AUC:  0.9986549974401637
+Epoch 30: Training Results
+TN:  1909265 	FP:  45
+FN:  2078 	TP:  2707
+AUC:  0.9967817268064261
+Epoch 30: Validation Results
+TN:  261613 	FP:  5
+FN:  217 	TP:  315
+AUC:  0.9975007144664864
+Epoch 31: Training Results
+TN:  1909193 	FP:  117
+FN:  2078 	TP:  2707
+AUC:  0.9973989270755119
+Epoch 31: Validation Results
+TN:  261605 	FP:  13
+FN:  217 	TP:  315
+AUC:  0.9984481657150697
+Epoch 32: Training Results
+TN:  1909279 	FP:  31
+FN:  2078 	TP:  2707
+AUC:  0.9980533486887687
+Epoch 32: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9989222398070263
+Epoch 33: Training Results
+TN:  1909292 	FP:  18
+FN:  2078 	TP:  2707
+AUC:  0.9980763700752525
+Epoch 33: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9991550377618242
+Epoch 34: Training Results
+TN:  1909269 	FP:  41
+FN:  2078 	TP:  2707
+AUC:  0.997383637259319
+Epoch 34: Validation Results
+TN:  261614 	FP:  4
+FN:  217 	TP:  315
+AUC:  0.9979263551454836
+Epoch 35: Training Results
+TN:  1909275 	FP:  35
+FN:  2078 	TP:  2707
+AUC:  0.9979844354151212
+Epoch 35: Validation Results
+TN:  261615 	FP:  3
+FN:  217 	TP:  315
+AUC:  0.9987659502631312
+Epoch 36: Training Results
+TN:  1909275 	FP:  35
+FN:  2078 	TP:  2707
+AUC:  0.9983358718761596
+Epoch 36: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9991465919115152
+Epoch 37: Training Results
+TN:  1909304 	FP:  6
+FN:  2078 	TP:  2707
+AUC:  0.9979270566141433
+Epoch 37: Validation Results
+TN:  261618 	FP:  0
+FN:  217 	TP:  315
+AUC:  0.9985502308163593
+Epoch 38: Training Results
+TN:  1909302 	FP:  8
+FN:  2078 	TP:  2707
+AUC:  0.9983371248795985
+Epoch 38: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9990847191425345
+Epoch 39: Training Results
+TN:  1909303 	FP:  7
+FN:  2078 	TP:  2707
+AUC:  0.9984446393609552
+Epoch 39: Validation Results
+TN:  261618 	FP:  0
+FN:  217 	TP:  315
+AUC:  0.999114672991908
+Epoch 40: Training Results
+TN:  1909303 	FP:  7
+FN:  2078 	TP:  2707
+AUC:  0.9982830486552756
+Epoch 40: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9990634446527299
+Epoch 41: Training Results
+TN:  1909303 	FP:  7
+FN:  2078 	TP:  2707
+AUC:  0.9978868772624216
+Epoch 41: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9987301047955072
+Epoch 42: Training Results
+TN:  1909286 	FP:  24
+FN:  2078 	TP:  2707
+AUC:  0.9976507131773223
+Epoch 42: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9987605364407509
+Epoch 43: Training Results
+TN:  1909304 	FP:  6
+FN:  2078 	TP:  2707
+AUC:  0.9984419875032733
+Epoch 43: Validation Results
+TN:  261618 	FP:  0
+FN:  217 	TP:  315
+AUC:  0.9991619029340661
+Epoch 44: Training Results
+TN:  1909302 	FP:  8
+FN:  2078 	TP:  2707
+AUC:  0.9980109913166123
+Epoch 44: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9989158883551562
+Epoch 45: Training Results
+TN:  1909269 	FP:  41
+FN:  2032 	TP:  2753
+AUC:  0.9981755350495711
+Epoch 45: Validation Results
+TN:  261611 	FP:  7
+FN:  212 	TP:  320
+AUC:  0.9990700152440593
+Epoch 46: Training Results
+TN:  1908115 	FP:  1195
+FN:  894 	TP:  3891
+AUC:  0.998224864473271
+Epoch 46: Validation Results
+TN:  261457 	FP:  161
+FN:  100 	TP:  432
+AUC:  0.9990539533994264
+Epoch 47: Training Results
+TN:  1909276 	FP:  34
+FN:  2078 	TP:  2707
+AUC:  0.9978975379984719
+Epoch 47: Validation Results
+TN:  261615 	FP:  3
+FN:  217 	TP:  315
+AUC:  0.998689528071032
+Epoch 48: Training Results
+TN:  1908655 	FP:  655
+FN:  1472 	TP:  3313
+AUC:  0.9982587421398662
+Epoch 48: Validation Results
+TN:  261527 	FP:  91
+FN:  156 	TP:  376
+AUC:  0.9989500669259094
+Epoch 49: Training Results
+TN:  1909160 	FP:  150
+FN:  1903 	TP:  2882
+AUC:  0.9985251588560167
+Epoch 49: Validation Results
+TN:  261603 	FP:  15
+FN:  197 	TP:  335
+AUC:  0.9991591151927476
+Epoch 50: Training Results
+TN:  1909264 	FP:  46
+FN:  2078 	TP:  2707
+AUC:  0.9974212081528663
+Epoch 50: Validation Results
+TN:  261614 	FP:  4
+FN:  217 	TP:  315
+AUC:  0.9981775859620153
+Epoch 51: Training Results
+TN:  1909276 	FP:  34
+FN:  2078 	TP:  2707
+AUC:  0.9980449193332039
+Epoch 51: Validation Results
+TN:  261615 	FP:  3
+FN:  217 	TP:  315
+AUC:  0.998861908199161
+Epoch 52: Training Results
+TN:  1909287 	FP:  23
+FN:  2078 	TP:  2707
+AUC:  0.9981007790966869
+Epoch 52: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.99879038251662
+Epoch 53: Training Results
+TN:  1908628 	FP:  682
+FN:  1472 	TP:  3313
+AUC:  0.998072265127625
+Epoch 53: Validation Results
+TN:  261523 	FP:  95
+FN:  156 	TP:  376
+AUC:  0.998751246364656
+Epoch 54: Training Results
+TN:  1909099 	FP:  211
+FN:  1836 	TP:  2949
+AUC:  0.9981456297240371
+Epoch 54: Validation Results
+TN:  261596 	FP:  22
+FN:  189 	TP:  343
+AUC:  0.9989561309817672
+Epoch 55: Training Results
+TN:  1909301 	FP:  9
+FN:  2078 	TP:  2707
+AUC:  0.9980823593167609
+Epoch 55: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9988200956718333
+Epoch 56: Training Results
+TN:  1909288 	FP:  22
+FN:  2078 	TP:  2707
+AUC:  0.9978922543683781
+Epoch 56: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.998695247251675
+Epoch 57: Training Results
+TN:  1909276 	FP:  34
+FN:  2078 	TP:  2707
+AUC:  0.9977962495130621
+Epoch 57: Validation Results
+TN:  261615 	FP:  3
+FN:  217 	TP:  315
+AUC:  0.9986269188497698
+Epoch 58: Training Results
+TN:  1908677 	FP:  633
+FN:  1472 	TP:  3313
+AUC:  0.9986273790352697
+Epoch 58: Validation Results
+TN:  261533 	FP:  85
+FN:  156 	TP:  376
+AUC:  0.999316166336075
+Epoch 59: Training Results
+TN:  1908662 	FP:  648
+FN:  1472 	TP:  3313
+AUC:  0.9984615281726263
+Epoch 59: Validation Results
+TN:  261528 	FP:  90
+FN:  156 	TP:  376
+AUC:  0.9991544090830475
+Epoch 60: Training Results
+TN:  1909256 	FP:  54
+FN:  2011 	TP:  2774
+AUC:  0.9984192172647597
+Epoch 60: Validation Results
+TN:  261610 	FP:  8
+FN:  209 	TP:  323
+AUC:  0.9991005187383062
+Epoch 61: Training Results
+TN:  1909293 	FP:  17
+FN:  2078 	TP:  2707
+AUC:  0.9980153550741662
+Epoch 61: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9987963639461243
+Epoch 62: Training Results
+TN:  1909252 	FP:  58
+FN:  2011 	TP:  2774
+AUC:  0.9980889383646925
+Epoch 62: Validation Results
+TN:  261609 	FP:  9
+FN:  209 	TP:  323
+AUC:  0.9988482281489794
+Epoch 63: Training Results
+TN:  1909025 	FP:  285
+FN:  1836 	TP:  2949
+AUC:  0.9982565550345408
+Epoch 63: Validation Results
+TN:  261583 	FP:  35
+FN:  189 	TP:  343
+AUC:  0.9991406751461136
+Epoch 64: Training Results
+TN:  1909302 	FP:  8
+FN:  2078 	TP:  2707
+AUC:  0.9978967285675542
+Epoch 64: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9985287443719958
+Epoch 65: Training Results
+TN:  1909301 	FP:  9
+FN:  2078 	TP:  2707
+AUC:  0.998070250580493
+Epoch 65: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9987847854792821
+Epoch 66: Training Results
+TN:  1908150 	FP:  1160
+FN:  1007 	TP:  3778
+AUC:  0.9984255285273308
+Epoch 66: Validation Results
+TN:  261456 	FP:  162
+FN:  107 	TP:  425
+AUC:  0.9990987332905803
+Epoch 67: Training Results
+TN:  1908086 	FP:  1224
+FN:  1006 	TP:  3779
+AUC:  0.998303243108384
+Epoch 67: Validation Results
+TN:  261450 	FP:  168
+FN:  107 	TP:  425
+AUC:  0.998951611679475
+Epoch 68: Training Results
+TN:  1907711 	FP:  1599
+FN:  638 	TP:  4147
+AUC:  0.9983260921555872
+Epoch 68: Validation Results
+TN:  261407 	FP:  211
+FN:  75 	TP:  457
+AUC:  0.9989643397303662
+Epoch 69: Training Results
+TN:  1909274 	FP:  36
+FN:  2078 	TP:  2707
+AUC:  0.9975741561175079
+Epoch 69: Validation Results
+TN:  261615 	FP:  3
+FN:  217 	TP:  315
+AUC:  0.9982911720509446
+Epoch 70: Training Results
+TN:  1909153 	FP:  157
+FN:  1903 	TP:  2882
+AUC:  0.9979504734670105
+Epoch 70: Validation Results
+TN:  261602 	FP:  16
+FN:  197 	TP:  335
+AUC:  0.9986935480227528
+Epoch 71: Training Results
+TN:  1909303 	FP:  7
+FN:  2078 	TP:  2707
+AUC:  0.9978521249835549
+Epoch 71: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9985933761426937
+Epoch 72: Training Results
+TN:  1907851 	FP:  1459
+FN:  817 	TP:  3968
+AUC:  0.998082259601877
+Epoch 72: Validation Results
+TN:  261423 	FP:  195
+FN:  90 	TP:  442
+AUC:  0.9991222350994795
+Epoch 73: Training Results
+TN:  1909305 	FP:  5
+FN:  2078 	TP:  2707
+AUC:  0.9982507589290508
+Epoch 73: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9987158104363494
+Epoch 74: Training Results
+TN:  1909301 	FP:  9
+FN:  2078 	TP:  2707
+AUC:  0.9985175218014251
+Epoch 74: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9991668964397784
+Epoch 75: Training Results
+TN:  1908663 	FP:  647
+FN:  1472 	TP:  3313
+AUC:  0.9978305873348404
+Epoch 75: Validation Results
+TN:  261528 	FP:  90
+FN:  156 	TP:  376
+AUC:  0.9985697988923413
+Epoch 76: Training Results
+TN:  1909292 	FP:  18
+FN:  2078 	TP:  2707
+AUC:  0.9975676219467469
+Epoch 76: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9980956062495298
+Epoch 77: Training Results
+TN:  1908531 	FP:  779
+FN:  1348 	TP:  3437
+AUC:  0.9976449177285714
+Epoch 77: Validation Results
+TN:  261504 	FP:  114
+FN:  140 	TP:  392
+AUC:  0.9983398030486624
+Epoch 78: Training Results
+TN:  1907955 	FP:  1355
+FN:  818 	TP:  3967
+AUC:  0.9984629052450233
+Epoch 78: Validation Results
+TN:  261433 	FP:  185
+FN:  90 	TP:  442
+AUC:  0.9991240995811088
+Epoch 79: Training Results
+TN:  1907869 	FP:  1441
+FN:  817 	TP:  3968
+AUC:  0.9972474772968993
+Epoch 79: Validation Results
+TN:  261425 	FP:  193
+FN:  90 	TP:  442
+AUC:  0.9982000639226211
+Epoch 80: Training Results
+TN:  1909255 	FP:  55
+FN:  2011 	TP:  2774
+AUC:  0.9984062229705691
+Epoch 80: Validation Results
+TN:  261610 	FP:  8
+FN:  209 	TP:  323
+AUC:  0.998979133440095
+Epoch 81: Training Results
+TN:  1909305 	FP:  5
+FN:  2078 	TP:  2707
+AUC:  0.9971623207860979
+Epoch 81: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9990142352705376
+Epoch 82: Training Results
+TN:  1909301 	FP:  9
+FN:  2078 	TP:  2707
+AUC:  0.9973034618955359
+Epoch 82: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9989063719547016
+Epoch 83: Training Results
+TN:  1909189 	FP:  121
+FN:  2011 	TP:  2774
+AUC:  0.9977180750690751
+Epoch 83: Validation Results
+TN:  261601 	FP:  17
+FN:  209 	TP:  323
+AUC:  0.9983073632237831
+Epoch 84: Training Results
+TN:  1909302 	FP:  8
+FN:  2078 	TP:  2707
+AUC:  0.9984846730260574
+Epoch 84: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9991482983253376
+Epoch 85: Training Results
+TN:  1909306 	FP:  4
+FN:  2078 	TP:  2707
+AUC:  0.9984502454499379
+Epoch 85: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9991157686892046
+Epoch 86: Training Results
+TN:  1908646 	FP:  664
+FN:  1471 	TP:  3314
+AUC:  0.998311304854248
+Epoch 86: Validation Results
+TN:  261525 	FP:  93
+FN:  156 	TP:  376
+AUC:  0.9991075168312037
+Epoch 87: Training Results
+TN:  1907887 	FP:  1423
+FN:  817 	TP:  3968
+AUC:  0.9978543835639837
+Epoch 87: Validation Results
+TN:  261426 	FP:  192
+FN:  90 	TP:  442
+AUC:  0.9984199793511713
+Epoch 88: Training Results
+TN:  1907705 	FP:  1605
+FN:  468 	TP:  4317
+AUC:  0.9982656376265785
+Epoch 88: Validation Results
+TN:  261406 	FP:  212
+FN:  55 	TP:  477
+AUC:  0.9989659527404847
+Epoch 89: Training Results
+TN:  1909175 	FP:  135
+FN:  2011 	TP:  2774
+AUC:  0.998574308935219
+Epoch 89: Validation Results
+TN:  261597 	FP:  21
+FN:  209 	TP:  323
+AUC:  0.9991903443619254
+Epoch 90: Training Results
+TN:  1909175 	FP:  135
+FN:  2011 	TP:  2774
+AUC:  0.9980796053908801
+Epoch 90: Validation Results
+TN:  261600 	FP:  18
+FN:  209 	TP:  323
+AUC:  0.9987763037044713
+Epoch 91: Training Results
+TN:  1907984 	FP:  1326
+FN:  863 	TP:  3922
+AUC:  0.9984153547085814
+Epoch 91: Validation Results
+TN:  261438 	FP:  180
+FN:  95 	TP:  437
+AUC:  0.9990945229390013
+Epoch 92: Training Results
+TN:  1907964 	FP:  1346
+FN:  818 	TP:  3967
+AUC:  0.9984171399990458
+Epoch 92: Validation Results
+TN:  261434 	FP:  184
+FN:  90 	TP:  442
+AUC:  0.9989438986889971
+Epoch 93: Training Results
+TN:  1909160 	FP:  150
+FN:  1903 	TP:  2882
+AUC:  0.9984848221058289
+Epoch 93: Validation Results
+TN:  261603 	FP:  15
+FN:  197 	TP:  335
+AUC:  0.9991762655497768
+Epoch 94: Training Results
+TN:  1908654 	FP:  656
+FN:  1471 	TP:  3314
+AUC:  0.9978719866341338
+Epoch 94: Validation Results
+TN:  261527 	FP:  91
+FN:  156 	TP:  376
+AUC:  0.9985865576723039
+Epoch 95: Training Results
+TN:  1909170 	FP:  140
+FN:  2011 	TP:  2774
+AUC:  0.9984426064798574
+Epoch 95: Validation Results
+TN:  261597 	FP:  21
+FN:  209 	TP:  323
+AUC:  0.998983031248511
+Epoch 96: Training Results
+TN:  1909308 	FP:  2
+FN:  2078 	TP:  2707
+AUC:  0.9985695531591622
+Epoch 96: Validation Results
+TN:  261618 	FP:  0
+FN:  217 	TP:  315
+AUC:  0.9991855879579231
+Epoch 97: Training Results
+TN:  1909291 	FP:  19
+FN:  2078 	TP:  2707
+AUC:  0.9977848601250014
+Epoch 97: Validation Results
+TN:  261616 	FP:  2
+FN:  217 	TP:  315
+AUC:  0.9984875281913933
+Epoch 98: Training Results
+TN:  1909301 	FP:  9
+FN:  2078 	TP:  2707
+AUC:  0.9983900345164001
+Epoch 98: Validation Results
+TN:  261617 	FP:  1
+FN:  217 	TP:  315
+AUC:  0.9990665700843627
+Epoch 99: Training Results
+TN:  1907697 	FP:  1613
+FN:  459 	TP:  4326
+AUC:  0.9986541769451122
+Epoch 99: Validation Results
+TN:  261405 	FP:  213
+FN:  54 	TP:  478
+AUC:  0.9991490455549694
+TRAINING COMPLETE 708 min, 10 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED 820 min, 7 sec
+ENDING RUN 4 820 min, 7 sec
+BEGINNING RUN 5:  820 min, 7 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 1909310
+Positive Samples: 4785
+Postive Class Ratio: 0.24998759204741663
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED 820 min, 15 sec
+BEGINNING TRAINING 820 min, 15 sec
+Epoch 0: Training Results
+TN:  1907952 	FP:  1358
+FN:  1012 	TP:  3773
+AUC:  0.9886547650549594
+Epoch 0: Validation Results
+TN:  261446 	FP:  172
+FN:  102 	TP:  430
+AUC:  0.9837386235007053
+Epoch 1: Training Results
+TN:  1908035 	FP:  1275
+FN:  1083 	TP:  3702
+AUC:  0.9927333006069303
+Epoch 1: Validation Results
+TN:  261455 	FP:  163
+FN:  106 	TP:  426
+AUC:  0.9879126590011251
+Epoch 2: Training Results
+TN:  1908634 	FP:  676
+FN:  1544 	TP:  3241
+AUC:  0.9939674796051184
+Epoch 2: Validation Results
+TN:  261533 	FP:  85
+FN:  159 	TP:  373
+AUC:  0.9885621416566898
+Epoch 3: Training Results
+TN:  1909166 	FP:  144
+FN:  2081 	TP:  2704
+AUC:  0.9965000913660882
+Epoch 3: Validation Results
+TN:  261601 	FP:  17
+FN:  214 	TP:  318
+AUC:  0.9934872147860421
+Epoch 4: Training Results
+TN:  1909175 	FP:  135
+FN:  2081 	TP:  2704
+AUC:  0.9952971387788245
+Epoch 4: Validation Results
+TN:  261602 	FP:  16
+FN:  214 	TP:  318
+AUC:  0.9908015241990029
+Epoch 5: Training Results
+TN:  1909168 	FP:  142
+FN:  2081 	TP:  2704
+AUC:  0.9975942328501358
+Epoch 5: Validation Results
+TN:  261601 	FP:  17
+FN:  214 	TP:  318
+AUC:  0.9967250074823552
+Epoch 6: Training Results
+TN:  1909170 	FP:  140
+FN:  2081 	TP:  2704
+AUC:  0.9960918326357151
+Epoch 6: Validation Results
+TN:  261601 	FP:  17
+FN:  214 	TP:  318
+AUC:  0.992954278398333
+Epoch 7: Training Results
+TN:  1909166 	FP:  144
+FN:  2081 	TP:  2704
+AUC:  0.9972044021636555
+Epoch 7: Validation Results
+TN:  261601 	FP:  17
+FN:  214 	TP:  318
+AUC:  0.9957641528022521
+Epoch 8: Training Results
+TN:  1909179 	FP:  131
+FN:  2081 	TP:  2704
+AUC:  0.9965986022282818
+Epoch 8: Validation Results
+TN:  261602 	FP:  16
+FN:  214 	TP:  318
+AUC:  0.9940240525746171
+Epoch 9: Training Results
+TN:  1909208 	FP:  102
+FN:  2081 	TP:  2704
+AUC:  0.9978282675134924
+Epoch 9: Validation Results
+TN:  261605 	FP:  13
+FN:  214 	TP:  318
+AUC:  0.9952977988856737
+Epoch 10: Training Results
+TN:  1909186 	FP:  124
+FN:  2081 	TP:  2704
+AUC:  0.9979329426381593
+Epoch 10: Validation Results
+TN:  261603 	FP:  15
+FN:  214 	TP:  318
+AUC:  0.9963866741194201
+Epoch 11: Training Results
+TN:  1909184 	FP:  126
+FN:  2081 	TP:  2704
+AUC:  0.9974976606269821
+Epoch 11: Validation Results
+TN:  261602 	FP:  16
+FN:  214 	TP:  318
+AUC:  0.9958077399999552
+Epoch 12: Training Results
+TN:  1909175 	FP:  135
+FN:  2081 	TP:  2704
+AUC:  0.9966552932045287
+Epoch 12: Validation Results
+TN:  261602 	FP:  16
+FN:  214 	TP:  318
+AUC:  0.993217816949088
+Epoch 13: Training Results
+TN:  1909263 	FP:  47
+FN:  2081 	TP:  2704
+AUC:  0.9976328742831139
+Epoch 13: Validation Results
+TN:  261613 	FP:  5
+FN:  214 	TP:  318
+AUC:  0.9955664997872982
+Epoch 14: Training Results
+TN:  1909294 	FP:  16
+FN:  2081 	TP:  2704
+AUC:  0.9962592626822078
+Epoch 14: Validation Results
+TN:  261616 	FP:  2
+FN:  214 	TP:  318
+AUC:  0.9933830840259146
+Epoch 15: Training Results
+TN:  1909236 	FP:  74
+FN:  2081 	TP:  2704
+AUC:  0.9974238756081014
+Epoch 15: Validation Results
+TN:  261610 	FP:  8
+FN:  214 	TP:  318
+AUC:  0.9956874971008927
+Epoch 16: Training Results
+TN:  1909179 	FP:  131
+FN:  2081 	TP:  2704
+AUC:  0.9982597992708739
+Epoch 16: Validation Results
+TN:  261602 	FP:  16
+FN:  214 	TP:  318
+AUC:  0.9975570117528301
+Epoch 17: Training Results
+TN:  1909201 	FP:  109
+FN:  2081 	TP:  2704
+AUC:  0.9976184356007705
+Epoch 17: Validation Results
+TN:  261603 	FP:  15
+FN:  214 	TP:  318
+AUC:  0.9948905335892076
+Epoch 18: Training Results
+TN:  1909301 	FP:  9
+FN:  2081 	TP:  2704
+AUC:  0.9979346780711816
+Epoch 18: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9947978555601673
+Epoch 19: Training Results
+TN:  1909285 	FP:  25
+FN:  2081 	TP:  2704
+AUC:  0.9982405631642701
+Epoch 19: Validation Results
+TN:  261615 	FP:  3
+FN:  214 	TP:  318
+AUC:  0.9972408078828358
+Epoch 20: Training Results
+TN:  1909231 	FP:  79
+FN:  2081 	TP:  2704
+AUC:  0.9978714259431433
+Epoch 20: Validation Results
+TN:  261610 	FP:  8
+FN:  214 	TP:  318
+AUC:  0.9954513545750023
+Epoch 21: Training Results
+TN:  1909285 	FP:  25
+FN:  2081 	TP:  2704
+AUC:  0.9982054153095632
+Epoch 21: Validation Results
+TN:  261615 	FP:  3
+FN:  214 	TP:  318
+AUC:  0.9960281835186778
+Epoch 22: Training Results
+TN:  1909276 	FP:  34
+FN:  2082 	TP:  2703
+AUC:  0.9982807083108312
+Epoch 22: Validation Results
+TN:  261613 	FP:  5
+FN:  214 	TP:  318
+AUC:  0.9967047388785933
+Epoch 23: Training Results
+TN:  1909301 	FP:  9
+FN:  2081 	TP:  2704
+AUC:  0.9982392561440416
+Epoch 23: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9955967877345359
+Epoch 24: Training Results
+TN:  1909294 	FP:  16
+FN:  2081 	TP:  2704
+AUC:  0.9982898867867748
+Epoch 24: Validation Results
+TN:  261616 	FP:  2
+FN:  214 	TP:  318
+AUC:  0.995555772731142
+Epoch 25: Training Results
+TN:  1909278 	FP:  32
+FN:  2081 	TP:  2704
+AUC:  0.998174328072596
+Epoch 25: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9958921985030462
+Epoch 26: Training Results
+TN:  1909278 	FP:  32
+FN:  2081 	TP:  2704
+AUC:  0.9982820675418164
+Epoch 26: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9962335064147078
+Epoch 27: Training Results
+TN:  1909273 	FP:  37
+FN:  2082 	TP:  2703
+AUC:  0.9975419402744297
+Epoch 27: Validation Results
+TN:  261613 	FP:  5
+FN:  214 	TP:  318
+AUC:  0.995867029797276
+Epoch 28: Training Results
+TN:  1909290 	FP:  20
+FN:  2081 	TP:  2704
+AUC:  0.9977185775839289
+Epoch 28: Validation Results
+TN:  261615 	FP:  3
+FN:  214 	TP:  318
+AUC:  0.9952490565220014
+Epoch 29: Training Results
+TN:  1909259 	FP:  51
+FN:  2081 	TP:  2704
+AUC:  0.9980178661707717
+Epoch 29: Validation Results
+TN:  261613 	FP:  5
+FN:  214 	TP:  318
+AUC:  0.9965994585344171
+Epoch 30: Training Results
+TN:  1909300 	FP:  10
+FN:  2081 	TP:  2704
+AUC:  0.9982333721449711
+Epoch 30: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9963444448678745
+Epoch 31: Training Results
+TN:  1909285 	FP:  25
+FN:  2081 	TP:  2704
+AUC:  0.9982540344152186
+Epoch 31: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9966128835206379
+Epoch 32: Training Results
+TN:  1909294 	FP:  16
+FN:  2081 	TP:  2704
+AUC:  0.9977879753121053
+Epoch 32: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9953426218862296
+Epoch 33: Training Results
+TN:  1909274 	FP:  36
+FN:  2081 	TP:  2704
+AUC:  0.9982139853714763
+Epoch 33: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9968002010565022
+Epoch 34: Training Results
+TN:  1909289 	FP:  21
+FN:  2081 	TP:  2704
+AUC:  0.9985238445569303
+Epoch 34: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9971686571139682
+Epoch 35: Training Results
+TN:  1909293 	FP:  17
+FN:  2081 	TP:  2704
+AUC:  0.9985248698360928
+Epoch 35: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9961280644102747
+Epoch 36: Training Results
+TN:  1909291 	FP:  19
+FN:  2081 	TP:  2704
+AUC:  0.9982952532207209
+Epoch 36: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9953768615286354
+Epoch 37: Training Results
+TN:  1909280 	FP:  30
+FN:  2081 	TP:  2704
+AUC:  0.9977926017105634
+Epoch 37: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9957212984643798
+Epoch 38: Training Results
+TN:  1909284 	FP:  26
+FN:  2081 	TP:  2704
+AUC:  0.9983355342028154
+Epoch 38: Validation Results
+TN:  261616 	FP:  2
+FN:  214 	TP:  318
+AUC:  0.9965736324102692
+Epoch 39: Training Results
+TN:  1909294 	FP:  16
+FN:  2081 	TP:  2704
+AUC:  0.998058488328819
+Epoch 39: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9962689351581141
+Epoch 40: Training Results
+TN:  1909274 	FP:  36
+FN:  2081 	TP:  2704
+AUC:  0.9971499906193033
+Epoch 40: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9935427792125544
+Epoch 41: Training Results
+TN:  1909297 	FP:  13
+FN:  2081 	TP:  2704
+AUC:  0.9982804052804733
+Epoch 41: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9960779856551454
+Epoch 42: Training Results
+TN:  1909301 	FP:  9
+FN:  2081 	TP:  2704
+AUC:  0.9985610672145797
+Epoch 42: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.996113400028751
+Epoch 43: Training Results
+TN:  1909271 	FP:  39
+FN:  2081 	TP:  2704
+AUC:  0.9983130575266714
+Epoch 43: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9962534696602066
+Epoch 44: Training Results
+TN:  1909294 	FP:  16
+FN:  2081 	TP:  2704
+AUC:  0.9985833959055176
+Epoch 44: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9965836804933462
+Epoch 45: Training Results
+TN:  1909275 	FP:  35
+FN:  2082 	TP:  2703
+AUC:  0.9980769045514081
+Epoch 45: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9959531983066396
+Epoch 46: Training Results
+TN:  1909244 	FP:  66
+FN:  2034 	TP:  2751
+AUC:  0.9981672126330199
+Epoch 46: Validation Results
+TN:  261612 	FP:  6
+FN:  210 	TP:  322
+AUC:  0.9953914899856573
+Epoch 47: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9983119942113706
+Epoch 47: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9961862980272504
+Epoch 48: Training Results
+TN:  1909300 	FP:  10
+FN:  2081 	TP:  2704
+AUC:  0.9982804468192202
+Epoch 48: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9963815333232515
+Epoch 49: Training Results
+TN:  1909302 	FP:  8
+FN:  2081 	TP:  2704
+AUC:  0.9979583737645171
+Epoch 49: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9952074918737339
+Epoch 50: Training Results
+TN:  1909285 	FP:  25
+FN:  2081 	TP:  2704
+AUC:  0.9982027797609017
+Epoch 50: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9954304069981619
+Epoch 51: Training Results
+TN:  1909300 	FP:  10
+FN:  2081 	TP:  2704
+AUC:  0.9974779273688936
+Epoch 51: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9936726031761742
+Epoch 52: Training Results
+TN:  1909298 	FP:  12
+FN:  2081 	TP:  2704
+AUC:  0.9976501993884479
+Epoch 52: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9943770826511269
+Epoch 53: Training Results
+TN:  1909304 	FP:  6
+FN:  2081 	TP:  2704
+AUC:  0.9979108516320407
+Epoch 53: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9949864987101379
+Epoch 54: Training Results
+TN:  1909275 	FP:  35
+FN:  2081 	TP:  2704
+AUC:  0.9980394945042075
+Epoch 54: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9954436918788266
+Epoch 55: Training Results
+TN:  1909300 	FP:  10
+FN:  2081 	TP:  2704
+AUC:  0.9985286429115714
+Epoch 55: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.997022289917395
+Epoch 56: Training Results
+TN:  1909292 	FP:  18
+FN:  2081 	TP:  2704
+AUC:  0.9978828017585962
+Epoch 56: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9957887179763963
+Epoch 57: Training Results
+TN:  1909183 	FP:  127
+FN:  2010 	TP:  2775
+AUC:  0.9982947143115762
+Epoch 57: Validation Results
+TN:  261602 	FP:  16
+FN:  210 	TP:  322
+AUC:  0.9968795331332253
+Epoch 58: Training Results
+TN:  1909185 	FP:  125
+FN:  2010 	TP:  2775
+AUC:  0.9985362172475806
+Epoch 58: Validation Results
+TN:  261601 	FP:  17
+FN:  210 	TP:  322
+AUC:  0.9970973577557867
+Epoch 59: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9983553163332373
+Epoch 59: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9962932632305483
+Epoch 60: Training Results
+TN:  1909291 	FP:  19
+FN:  2081 	TP:  2704
+AUC:  0.9985773136807009
+Epoch 60: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9963374719221281
+Epoch 61: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9984858667040658
+Epoch 61: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.996118174395004
+Epoch 62: Training Results
+TN:  1909303 	FP:  7
+FN:  2081 	TP:  2704
+AUC:  0.9985601044350866
+Epoch 62: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9970857146248416
+Epoch 63: Training Results
+TN:  1909298 	FP:  12
+FN:  2081 	TP:  2704
+AUC:  0.998739110766637
+Epoch 63: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9968921462257117
+Epoch 64: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9988699641678231
+Epoch 64: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9970978211818564
+Epoch 65: Training Results
+TN:  1909181 	FP:  129
+FN:  2010 	TP:  2775
+AUC:  0.9985730588871062
+Epoch 65: Validation Results
+TN:  261602 	FP:  16
+FN:  210 	TP:  322
+AUC:  0.9969843967531837
+Epoch 66: Training Results
+TN:  1909292 	FP:  18
+FN:  2081 	TP:  2704
+AUC:  0.9985648271005485
+Epoch 66: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9970681295813439
+Epoch 67: Training Results
+TN:  1909302 	FP:  8
+FN:  2081 	TP:  2704
+AUC:  0.9977035985147781
+Epoch 67: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9962448908892418
+Epoch 68: Training Results
+TN:  1909300 	FP:  10
+FN:  2082 	TP:  2703
+AUC:  0.9985172912312793
+Epoch 68: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9964419224103191
+Epoch 69: Training Results
+TN:  1909292 	FP:  18
+FN:  2081 	TP:  2704
+AUC:  0.9977423034325339
+Epoch 69: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9951501994786982
+Epoch 70: Training Results
+TN:  1909284 	FP:  26
+FN:  2081 	TP:  2704
+AUC:  0.9979048644702061
+Epoch 70: Validation Results
+TN:  261615 	FP:  3
+FN:  214 	TP:  318
+AUC:  0.9953270773544186
+Epoch 71: Training Results
+TN:  1909298 	FP:  12
+FN:  2081 	TP:  2704
+AUC:  0.9978851091566301
+Epoch 71: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9954624157290228
+Epoch 72: Training Results
+TN:  1909300 	FP:  10
+FN:  2082 	TP:  2703
+AUC:  0.9973481090979558
+Epoch 72: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.994680601579632
+Epoch 73: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9984065048210916
+Epoch 73: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9967320163526032
+Epoch 74: Training Results
+TN:  1909298 	FP:  12
+FN:  2081 	TP:  2704
+AUC:  0.9983347609472755
+Epoch 74: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9968560923959786
+Epoch 75: Training Results
+TN:  1909281 	FP:  29
+FN:  2081 	TP:  2704
+AUC:  0.9981442535820205
+Epoch 75: Validation Results
+TN:  261614 	FP:  4
+FN:  214 	TP:  318
+AUC:  0.9959937175519125
+Epoch 76: Training Results
+TN:  1909298 	FP:  12
+FN:  2082 	TP:  2703
+AUC:  0.998582619913565
+Epoch 76: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.997116444443448
+Epoch 77: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9983779102373075
+Epoch 77: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9968712202035718
+Epoch 78: Training Results
+TN:  1909239 	FP:  71
+FN:  2010 	TP:  2775
+AUC:  0.9980882555202328
+Epoch 78: Validation Results
+TN:  261613 	FP:  5
+FN:  210 	TP:  322
+AUC:  0.9961848035679871
+Epoch 79: Training Results
+TN:  1909283 	FP:  27
+FN:  2081 	TP:  2704
+AUC:  0.9983133496113776
+Epoch 79: Validation Results
+TN:  261615 	FP:  3
+FN:  214 	TP:  318
+AUC:  0.9963363834097317
+Epoch 80: Training Results
+TN:  1909298 	FP:  12
+FN:  2081 	TP:  2704
+AUC:  0.9984831470380736
+Epoch 80: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9964588751825899
+Epoch 81: Training Results
+TN:  1909302 	FP:  8
+FN:  2081 	TP:  2704
+AUC:  0.9980228838762658
+Epoch 81: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9964902229026227
+Epoch 82: Training Results
+TN:  1909301 	FP:  9
+FN:  2081 	TP:  2704
+AUC:  0.9986716935993449
+Epoch 82: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9970080242978384
+Epoch 83: Training Results
+TN:  1909300 	FP:  10
+FN:  2081 	TP:  2704
+AUC:  0.9987110877100382
+Epoch 83: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9972776484591521
+Epoch 84: Training Results
+TN:  1908762 	FP:  548
+FN:  1544 	TP:  3241
+AUC:  0.9983822571932864
+Epoch 84: Validation Results
+TN:  261549 	FP:  69
+FN:  159 	TP:  373
+AUC:  0.9968018823231739
+Epoch 85: Training Results
+TN:  1909295 	FP:  15
+FN:  2081 	TP:  2704
+AUC:  0.9981965088330558
+Epoch 85: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9957522833469472
+Epoch 86: Training Results
+TN:  1909301 	FP:  9
+FN:  2081 	TP:  2704
+AUC:  0.9986591024882218
+Epoch 86: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9972410198373948
+Epoch 87: Training Results
+TN:  1909307 	FP:  3
+FN:  2082 	TP:  2703
+AUC:  0.9983407803987816
+Epoch 87: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9966381707772631
+Epoch 88: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9976031999108237
+Epoch 88: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9947365899152625
+Epoch 89: Training Results
+TN:  1909301 	FP:  9
+FN:  2081 	TP:  2704
+AUC:  0.9979223359736269
+Epoch 89: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9949367432755224
+Epoch 90: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9979653066306289
+Epoch 90: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9949468380604517
+Epoch 91: Training Results
+TN:  1909299 	FP:  11
+FN:  2081 	TP:  2704
+AUC:  0.9981458599658134
+Epoch 91: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9955506463047741
+Epoch 92: Training Results
+TN:  1909300 	FP:  10
+FN:  2081 	TP:  2704
+AUC:  0.9982558569208975
+Epoch 92: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9963817201306595
+Epoch 93: Training Results
+TN:  1909298 	FP:  12
+FN:  2081 	TP:  2704
+AUC:  0.9982134241332032
+Epoch 93: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9956684104132312
+Epoch 94: Training Results
+TN:  1909297 	FP:  13
+FN:  2081 	TP:  2704
+AUC:  0.9985273678526451
+Epoch 94: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9963874788282543
+Epoch 95: Training Results
+TN:  1909297 	FP:  13
+FN:  2081 	TP:  2704
+AUC:  0.9983557668015186
+Epoch 95: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9962848928216925
+Epoch 96: Training Results
+TN:  1909301 	FP:  9
+FN:  2081 	TP:  2704
+AUC:  0.9987148611686146
+Epoch 96: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9969609811630882
+Epoch 97: Training Results
+TN:  1909296 	FP:  14
+FN:  2081 	TP:  2704
+AUC:  0.9986125679271389
+Epoch 97: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9970836238188526
+Epoch 98: Training Results
+TN:  1907757 	FP:  1553
+FN:  642 	TP:  4143
+AUC:  0.9976905315961906
+Epoch 98: Validation Results
+TN:  261416 	FP:  202
+FN:  67 	TP:  465
+AUC:  0.9959258849081285
+Epoch 99: Training Results
+TN:  1909301 	FP:  9
+FN:  2081 	TP:  2704
+AUC:  0.9987882631991545
+Epoch 99: Validation Results
+TN:  261617 	FP:  1
+FN:  214 	TP:  318
+AUC:  0.9970338324597356
+TRAINING COMPLETE 901 min, 47 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED 969 min, 58 sec
+ENDING RUN 5 969 min, 58 sec
+BEGINNING RUN 6:  969 min, 58 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359
+Training imbalance levels after sampling
+Negative Samples: 1909310
+Positive Samples: 4785
+Postive Class Ratio: 0.24998759204741663
+Validation imbalance levels after sampling
+Negative Samples: 261618
+Positive Samples: 532
+Postive Class Ratio: 0.20293724966622162
+Model Summary:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 32)                2496      
+_________________________________________________________________
+batch_normalization (BatchNo (None, 32)                128       
+_________________________________________________________________
+activation (Activation)      (None, 32)                0         
+_________________________________________________________________
+dropout (Dropout)            (None, 32)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 32)                1056      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 32)                128       
+_________________________________________________________________
+activation_1 (Activation)    (None, 32)                0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32)                0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 1)                 33        
+=================================================================
+Total params: 3,841
+Trainable params: 3,713
+Non-trainable params: 128
+_________________________________________________________________
+
+MODEL COMPILED 970 min, 3 sec
+BEGINNING TRAINING 970 min, 3 sec
+Epoch 0: Training Results
+TN:  1909310 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9904966459596287
+Epoch 0: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9917463170344731
+Epoch 1: Training Results
+TN:  1907772 	FP:  1538
+FN:  817 	TP:  3968
+AUC:  0.9885979512137762
+Epoch 1: Validation Results
+TN:  261385 	FP:  233
+FN:  91 	TP:  441
+AUC:  0.9898875150688915
+Epoch 2: Training Results
+TN:  1907129 	FP:  2181
+FN:  544 	TP:  4241
+AUC:  0.9861113384978967
+Epoch 2: Validation Results
+TN:  261315 	FP:  303
+FN:  61 	TP:  471
+AUC:  0.9866613152092212
+Epoch 3: Training Results
+TN:  1907118 	FP:  2192
+FN:  543 	TP:  4242
+AUC:  0.9867460022253494
+Epoch 3: Validation Results
+TN:  261314 	FP:  304
+FN:  61 	TP:  471
+AUC:  0.9871937414690086
+Epoch 4: Training Results
+TN:  1907219 	FP:  2091
+FN:  594 	TP:  4191
+AUC:  0.9881105141590018
+Epoch 4: Validation Results
+TN:  261329 	FP:  289
+FN:  63 	TP:  469
+AUC:  0.9889683866973122
+Epoch 5: Training Results
+TN:  1907178 	FP:  2132
+FN:  543 	TP:  4242
+AUC:  0.9870003963475085
+Epoch 5: Validation Results
+TN:  261318 	FP:  300
+FN:  61 	TP:  471
+AUC:  0.9871007580817053
+Epoch 6: Training Results
+TN:  1907772 	FP:  1538
+FN:  817 	TP:  3968
+AUC:  0.9875619667665179
+Epoch 6: Validation Results
+TN:  261385 	FP:  233
+FN:  91 	TP:  441
+AUC:  0.988243361999936
+Epoch 7: Training Results
+TN:  1907755 	FP:  1555
+FN:  817 	TP:  3968
+AUC:  0.9874438567304649
+Epoch 7: Validation Results
+TN:  261385 	FP:  233
+FN:  91 	TP:  441
+AUC:  0.9878385395695739
+Epoch 8: Training Results
+TN:  1907769 	FP:  1541
+FN:  817 	TP:  3968
+AUC:  0.9874530904819478
+Epoch 8: Validation Results
+TN:  261385 	FP:  233
+FN:  91 	TP:  441
+AUC:  0.987361846581456
+Epoch 9: Training Results
+TN:  1907139 	FP:  2171
+FN:  543 	TP:  4242
+AUC:  0.9879400631127352
+Epoch 9: Validation Results
+TN:  261313 	FP:  305
+FN:  61 	TP:  471
+AUC:  0.9877454376314154
+Epoch 10: Training Results
+TN:  1907130 	FP:  2180
+FN:  544 	TP:  4241
+AUC:  0.9883760709300538
+Epoch 10: Validation Results
+TN:  261323 	FP:  295
+FN:  52 	TP:  480
+AUC:  0.9880492942502348
+Epoch 11: Training Results
+TN:  1907584 	FP:  1726
+FN:  647 	TP:  4138
+AUC:  0.9881072175477267
+Epoch 11: Validation Results
+TN:  261370 	FP:  248
+FN:  67 	TP:  465
+AUC:  0.9874640302336007
+Epoch 12: Training Results
+TN:  1907628 	FP:  1682
+FN:  696 	TP:  4089
+AUC:  0.9881988174898395
+Epoch 12: Validation Results
+TN:  261382 	FP:  236
+FN:  69 	TP:  463
+AUC:  0.9872834952436247
+Epoch 13: Training Results
+TN:  1906954 	FP:  2356
+FN:  373 	TP:  4412
+AUC:  0.9886881478139288
+Epoch 13: Validation Results
+TN:  261299 	FP:  319
+FN:  37 	TP:  495
+AUC:  0.9877448987638926
+Epoch 14: Training Results
+TN:  1907054 	FP:  2256
+FN:  426 	TP:  4359
+AUC:  0.9887353595824611
+Epoch 14: Validation Results
+TN:  261316 	FP:  302
+FN:  39 	TP:  493
+AUC:  0.9885108306911581
+Epoch 15: Training Results
+TN:  1907663 	FP:  1647
+FN:  647 	TP:  4138
+AUC:  0.9890401024968306
+Epoch 15: Validation Results
+TN:  261381 	FP:  237
+FN:  67 	TP:  465
+AUC:  0.9882801019876482
+Epoch 16: Training Results
+TN:  1907074 	FP:  2236
+FN:  406 	TP:  4379
+AUC:  0.990466920744788
+Epoch 16: Validation Results
+TN:  261315 	FP:  303
+FN:  43 	TP:  489
+AUC:  0.9884451499250155
+Epoch 17: Training Results
+TN:  1907047 	FP:  2263
+FN:  373 	TP:  4412
+AUC:  0.9898916792619645
+Epoch 17: Validation Results
+TN:  261311 	FP:  307
+FN:  37 	TP:  495
+AUC:  0.9881521173585065
+Epoch 18: Training Results
+TN:  1907090 	FP:  2220
+FN:  443 	TP:  4342
+AUC:  0.989623989676018
+Epoch 18: Validation Results
+TN:  261325 	FP:  293

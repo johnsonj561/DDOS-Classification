@@ -62,7 +62,7 @@ logger.log_message('\n'.join(sys.argv[1:]))
 # DEFINE DIRECTORIES/PATHS
 # -------------------------------------------------- #
 data_file = 'combined-minmax-scaled.hdf5'
-data_path = os.path.join(os.environ['CMS_ROOT'], 'data', data_file)
+data_path = '/home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5'
 logger.log_message(data_path)
 train_key = 'train_normalized'
 test_key = 'test_normalized'

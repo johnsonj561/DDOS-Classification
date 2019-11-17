@@ -1,1 +1,4 @@
 2019-11-16 13:23:08.311144: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: *** JOB 2832207 ON node052 CANCELLED AT 2019-11-17T01:23:05 DUE TO TIME LIMIT ***
+slurmstepd: *** STEP 2832207.0 ON node052 CANCELLED AT 2019-11-17T01:23:05 DUE TO TIME LIMIT ***

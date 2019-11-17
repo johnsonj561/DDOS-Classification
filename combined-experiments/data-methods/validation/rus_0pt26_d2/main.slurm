@@ -14,7 +14,7 @@ source activate jjohn273-tf.latest
 
 srun python ../ros-rus-learner.py       \
           rus_rate=0.26895               \
-          runs=10                       \
+          runs=3                       \
           width=32                      \
           depth=2                       \
           epochs=100                    \
