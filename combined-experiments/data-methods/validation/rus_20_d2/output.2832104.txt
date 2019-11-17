@@ -670,4 +670,191 @@ FN:  4785 	TP:  0
 AUC:  0.9779780610076193
 Epoch 77: Validation Results
 TN:  261618 	FP:  0
-FN:  
+FN:  532 	TP:  0
+AUC:  0.9819246948299815
+Epoch 78: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9804066841914454
+Epoch 78: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9824532556134045
+Epoch 79: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9787876694518329
+Epoch 79: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9824291035710278
+Epoch 80: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9766318487427876
+Epoch 80: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9788808980343666
+Epoch 81: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9775998525682835
+Epoch 81: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9813580971843412
+Epoch 82: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9685545477108449
+Epoch 82: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.971850315017643
+Epoch 83: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9777557444670028
+Epoch 83: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9815800207925267
+Epoch 84: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9775386449133046
+Epoch 84: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9796003256944048
+Epoch 85: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9783966662087819
+Epoch 85: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9819614815195455
+Epoch 86: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9775413616738626
+Epoch 86: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9815455584182116
+Epoch 87: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9703555125156446
+Epoch 87: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9731038430192402
+Epoch 88: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9776401741731978
+Epoch 88: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9812573648820583
+Epoch 89: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9775278336807689
+Epoch 89: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9816089507936067
+Epoch 90: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9774862885233292
+Epoch 90: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9817007917817616
+Epoch 91: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9779013318253919
+Epoch 91: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9819101813313642
+Epoch 92: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9774793090201122
+Epoch 92: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9815187012608695
+Epoch 93: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.970153663368288
+Epoch 93: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9729891756028146
+Epoch 94: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9704507674815064
+Epoch 94: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9732776385727295
+Epoch 95: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9790634007989615
+Epoch 95: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9830052607265244
+Epoch 96: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9803674116319305
+Epoch 96: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9843418174360515
+Epoch 97: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9786726903957548
+Epoch 97: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9817616586646996
+Epoch 98: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9791153850056344
+Epoch 98: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.983318393051638
+Epoch 99: Training Results
+TN:  47846953 	FP:  0
+FN:  4785 	TP:  0
+AUC:  0.9814289124844555
+Epoch 99: Validation Results
+TN:  261618 	FP:  0
+FN:  532 	TP:  0
+AUC:  0.9848169872253048
+TRAINING COMPLETE 1507 min, 23 sec
+PLOTTING TRAIN VS VALIDATION PERFORMANCE
+CALCULATING THRESHOLDS
+RESULTS SAVED 1514 min, 49 sec
+ENDING RUN 0 1514 min, 49 sec
+BEGINNING RUN 1:  1514 min, 49 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359

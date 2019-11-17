@@ -4,7 +4,7 @@ runs=10
 width=32
 depth=2
 epochs=100
-threshold_interval=0.001
+threshold_interval=0.0001
 /home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5
 BEGINNING RUN 0: : 0 min, 0 sec
 Data imbalance levels before sampling
@@ -48,8 +48,8 @@ _________________________________________________________________
 
 MODEL COMPILED: 0 min, 8 sec
 BEGINNING TRAINING: 0 min, 8 sec
-TRAINING COMPLETE: 165 min, 29 sec
+TRAINING COMPLETE: 158 min, 47 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 174 min, 45 sec
-ENDING RUN 0: 174 min, 45 sec
+RESULTS SAVED: 243 min, 26 sec
+ENDING RUN 0: 243 min, 26 sec
