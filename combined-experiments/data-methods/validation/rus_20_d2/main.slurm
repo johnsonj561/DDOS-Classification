@@ -18,4 +18,4 @@ srun python ../ros-rus-learner.py       \
           width=32                      \
           depth=2                       \
           epochs=100                    \
-          threshold_interval=0.001
+          threshold_interval=0.0001
