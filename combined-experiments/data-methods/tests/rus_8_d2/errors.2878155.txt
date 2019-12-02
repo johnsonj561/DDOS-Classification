@@ -1,0 +1,2 @@
+2019-11-29 20:34:06.511650: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+slurmstepd: get_exit_code task 0 died by signal

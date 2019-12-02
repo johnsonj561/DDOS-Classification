@@ -18,4 +18,4 @@ srun python ../ros-rus-learner-test.py  \
           width=32                      \
           depth=2                       \
           epochs=100                    \
-          decision_threshold=0.0
+          decision_threshold=0.001

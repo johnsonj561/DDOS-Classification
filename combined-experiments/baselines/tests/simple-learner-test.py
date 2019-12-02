@@ -30,13 +30,6 @@ from cms_modules.keras_callbacks import EpochTimerCallback
 filename = sys.argv[0].replace('.py', '')
 cli_args = args_to_dict(sys.argv)
 
-ros_rate = cli_args.get('ros_rate')
-if ros_rate != None:
-          ros_rate = float(ros_rate)
-rus_rate = cli_args.get('rus_rate')
-if rus_rate != None:
-	rus_rate = float(rus_rate)
-
 width = int(cli_args.get('width'))
 depth = int(cli_args.get('depth'))
 
@@ -97,14 +90,6 @@ for run in range(runs):
 	# LOAD NORMALIZED TEST DATA
 	# -------------------------------------------------- #
 	test_data = pd.read_hdf(data_path, key=test_key)
-
-
-	# APPLY SAMPLING TO THE TRAINING DATA
-	# --------------------------------------------------
-	pos_train, neg_train = split_on_binary_attribute(train_data, attribute='class', pos_label=1, neg_label=0)
-	train_data = apply_ros_rus(pos_train, neg_train, ros_rate=ros_rate, rus_rate=rus_rate)
-	del pos_train
-	del neg_train
 
 	# SEPARATE FEATURES/LABELS
 	# --------------------------------------------------
