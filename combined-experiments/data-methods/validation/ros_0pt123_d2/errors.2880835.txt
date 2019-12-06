@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "../ros-rus-learner.py", line 107, in <module>
+    rus_rate=rus_rate)
+  File "/home/jjohn273/git/CMS-Classification/cms_modules/utils.py", line 142, in train_valid_split_w_sampling
+    train_pos, train_neg, ros_rate=ros_rate, rus_rate=rus_rate)
+  File "/home/jjohn273/git/CMS-Classification/cms_modules/utils.py", line 81, in apply_ros_rus
+    replaceNeg = rus_rate > 1
+TypeError: '>' not supported between instances of 'NoneType' and 'int'
+srun: error: node052: task 0: Exited with exit code 1

@@ -1,0 +1,13 @@
+Executing ../ros-rus-learner
+ros_rate=0.0492
+runs=10
+width=32
+depth=2
+epochs=100
+threshold_interval=0.0005
+/home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5
+BEGINNING RUN 0:  0 min, 0 sec
+Data imbalance levels before sampling
+Negative Samples: 2616175
+Positive Samples: 5317
+Postive Class Ratio: 0.202823430321359

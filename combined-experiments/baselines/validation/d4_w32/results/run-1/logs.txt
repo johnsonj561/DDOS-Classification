@@ -2,8 +2,8 @@ Executing ../baseline-learner
 runs=10
 width=32
 depth=4
-epochs=200
-threshold_interval=0.0001
+epochs=100
+threshold_interval=0.00005
 /home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5
 BEGINNING RUN 0: : 0 min, 0 sec
 Data imbalance levels before sampling
@@ -61,8 +61,8 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 0 min, 23 sec
-BEGINNING TRAINING: 0 min, 23 sec
-TRAINING COMPLETE: 251 min, 20 sec
-RESULTS SAVED: 307 min, 5 sec
-ENDING RUN 0: 307 min, 5 sec
+MODEL COMPILED: 3 min, 38 sec
+BEGINNING TRAINING: 3 min, 38 sec
+TRAINING COMPLETE: 135 min, 24 sec
+RESULTS SAVED: 351 min, 57 sec
+ENDING RUN 0: 351 min, 57 sec

@@ -5,6 +5,7 @@
 #SBATCH -e errors.%j.txt
 #SBATCH -o output.%j.txt
 #SBATCH -p longq-bigdata7
+#SBATCH -w node027
 #SBATCH --mail-user=jjohn273@fau.edu
 #SBATCH --mail-type=ALL
 
@@ -16,5 +17,5 @@ srun python ../baseline-learner.py       \
           runs=10              \
           width=32            \
           depth=4             \
-          epochs=200          \
-          threshold_interval=0.0001     
+          epochs=100          \
+          threshold_interval=0.00005

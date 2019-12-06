@@ -2,8 +2,8 @@ Executing ../baseline-learner
 runs=10
 width=32
 depth=4
-epochs=200
-threshold_interval=0.0001
+epochs=100
+threshold_interval=0.00005
 /home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5
 BEGINNING RUN 0: : 0 min, 0 sec
 Data imbalance levels before sampling
@@ -61,12 +61,12 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 0 min, 23 sec
-BEGINNING TRAINING: 0 min, 23 sec
-TRAINING COMPLETE: 251 min, 20 sec
-RESULTS SAVED: 307 min, 5 sec
-ENDING RUN 0: 307 min, 5 sec
-BEGINNING RUN 1: : 307 min, 5 sec
+MODEL COMPILED: 3 min, 38 sec
+BEGINNING TRAINING: 3 min, 38 sec
+TRAINING COMPLETE: 135 min, 24 sec
+RESULTS SAVED: 351 min, 57 sec
+ENDING RUN 0: 351 min, 57 sec
+BEGINNING RUN 1: : 351 min, 57 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -122,12 +122,12 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 307 min, 9 sec
-BEGINNING TRAINING: 307 min, 9 sec
-TRAINING COMPLETE: 552 min, 53 sec
-RESULTS SAVED: 608 min, 55 sec
-ENDING RUN 1: 608 min, 55 sec
-BEGINNING RUN 2: : 608 min, 55 sec
+MODEL COMPILED: 353 min, 58 sec
+BEGINNING TRAINING: 353 min, 58 sec
+TRAINING COMPLETE: 487 min, 38 sec
+RESULTS SAVED: 645 min, 43 sec
+ENDING RUN 1: 645 min, 43 sec
+BEGINNING RUN 2: : 645 min, 43 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -183,12 +183,12 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 608 min, 59 sec
-BEGINNING TRAINING: 608 min, 59 sec
-TRAINING COMPLETE: 853 min, 18 sec
-RESULTS SAVED: 926 min, 41 sec
-ENDING RUN 2: 926 min, 41 sec
-BEGINNING RUN 3: : 926 min, 41 sec
+MODEL COMPILED: 646 min, 58 sec
+BEGINNING TRAINING: 646 min, 58 sec
+TRAINING COMPLETE: 790 min, 37 sec
+RESULTS SAVED: 928 min, 47 sec
+ENDING RUN 2: 928 min, 47 sec
+BEGINNING RUN 3: : 928 min, 47 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -244,12 +244,12 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 926 min, 46 sec
-BEGINNING TRAINING: 926 min, 46 sec
-TRAINING COMPLETE: 1176 min, 29 sec
-RESULTS SAVED: 1249 min, 24 sec
-ENDING RUN 3: 1249 min, 24 sec
-BEGINNING RUN 4: : 1249 min, 24 sec
+MODEL COMPILED: 930 min, 34 sec
+BEGINNING TRAINING: 930 min, 34 sec
+TRAINING COMPLETE: 1077 min, 37 sec
+RESULTS SAVED: 1222 min, 6 sec
+ENDING RUN 3: 1222 min, 6 sec
+BEGINNING RUN 4: : 1222 min, 6 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -305,12 +305,12 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 1249 min, 28 sec
-BEGINNING TRAINING: 1249 min, 28 sec
-TRAINING COMPLETE: 1498 min, 55 sec
-RESULTS SAVED: 1555 min, 3 sec
-ENDING RUN 4: 1555 min, 3 sec
-BEGINNING RUN 5: : 1555 min, 3 sec
+MODEL COMPILED: 1224 min, 52 sec
+BEGINNING TRAINING: 1224 min, 52 sec
+TRAINING COMPLETE: 1362 min, 47 sec
+RESULTS SAVED: 1534 min, 57 sec
+ENDING RUN 4: 1534 min, 57 sec
+BEGINNING RUN 5: : 1534 min, 57 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -366,12 +366,12 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 1555 min, 7 sec
-BEGINNING TRAINING: 1555 min, 7 sec
-TRAINING COMPLETE: 1803 min, 33 sec
-RESULTS SAVED: 1859 min, 1 sec
-ENDING RUN 5: 1859 min, 1 sec
-BEGINNING RUN 6: : 1859 min, 1 sec
+MODEL COMPILED: 1536 min, 3 sec
+BEGINNING TRAINING: 1536 min, 3 sec
+TRAINING COMPLETE: 1665 min, 52 sec
+RESULTS SAVED: 1865 min, 36 sec
+ENDING RUN 5: 1865 min, 36 sec
+BEGINNING RUN 6: : 1865 min, 36 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -427,12 +427,12 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 1859 min, 5 sec
-BEGINNING TRAINING: 1859 min, 5 sec
-TRAINING COMPLETE: 2088 min, 18 sec
-RESULTS SAVED: 2200 min, 3 sec
-ENDING RUN 6: 2200 min, 3 sec
-BEGINNING RUN 7: : 2200 min, 3 sec
+MODEL COMPILED: 1866 min, 41 sec
+BEGINNING TRAINING: 1866 min, 41 sec
+TRAINING COMPLETE: 1994 min, 36 sec
+RESULTS SAVED: 2191 min, 36 sec
+ENDING RUN 6: 2191 min, 36 sec
+BEGINNING RUN 7: : 2191 min, 36 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -488,12 +488,12 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 2200 min, 8 sec
-BEGINNING TRAINING: 2200 min, 8 sec
-TRAINING COMPLETE: 2431 min, 31 sec
-RESULTS SAVED: 2488 min, 34 sec
-ENDING RUN 7: 2488 min, 34 sec
-BEGINNING RUN 8: : 2488 min, 34 sec
+MODEL COMPILED: 2192 min, 12 sec
+BEGINNING TRAINING: 2192 min, 12 sec
+TRAINING COMPLETE: 2329 min, 5 sec
+RESULTS SAVED: 2599 min, 11 sec
+ENDING RUN 7: 2599 min, 11 sec
+BEGINNING RUN 8: : 2599 min, 11 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -549,8 +549,8 @@ Trainable params: 5,953
 Non-trainable params: 256
 _________________________________________________________________
 
-MODEL COMPILED: 2488 min, 38 sec
-BEGINNING TRAINING: 2488 min, 38 sec
-TRAINING COMPLETE: 2735 min, 57 sec
-RESULTS SAVED: 2792 min, 4 sec
-ENDING RUN 8: 2792 min, 4 sec
+MODEL COMPILED: 2599 min, 44 sec
+BEGINNING TRAINING: 2599 min, 44 sec
+TRAINING COMPLETE: 2750 min, 24 sec
+RESULTS SAVED: 3003 min, 32 sec
+ENDING RUN 8: 3003 min, 32 sec

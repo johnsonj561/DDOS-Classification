@@ -4,7 +4,7 @@ runs=10
 width=32
 depth=2
 epochs=100
-threshold_interval=0.0001
+threshold_interval=0.00005
 /home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5
 BEGINNING RUN 0: : 0 min, 0 sec
 Data imbalance levels before sampling
@@ -46,14 +46,14 @@ Trainable params: 3,713
 Non-trainable params: 128
 _________________________________________________________________
 
-MODEL COMPILED: 0 min, 8 sec
-BEGINNING TRAINING: 0 min, 8 sec
-TRAINING COMPLETE: 158 min, 47 sec
+MODEL COMPILED: 2 min, 12 sec
+BEGINNING TRAINING: 2 min, 12 sec
+TRAINING COMPLETE: 204 min, 27 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 243 min, 26 sec
-ENDING RUN 0: 243 min, 26 sec
-BEGINNING RUN 1: : 243 min, 26 sec
+RESULTS SAVED: 418 min, 4 sec
+ENDING RUN 0: 418 min, 4 sec
+BEGINNING RUN 1: : 418 min, 4 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -93,14 +93,14 @@ Trainable params: 3,713
 Non-trainable params: 128
 _________________________________________________________________
 
-MODEL COMPILED: 243 min, 33 sec
-BEGINNING TRAINING: 243 min, 33 sec
-TRAINING COMPLETE: 434 min, 42 sec
+MODEL COMPILED: 418 min, 41 sec
+BEGINNING TRAINING: 418 min, 41 sec
+TRAINING COMPLETE: 632 min, 21 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 539 min, 38 sec
-ENDING RUN 1: 539 min, 38 sec
-BEGINNING RUN 2: : 539 min, 38 sec
+RESULTS SAVED: 925 min, 13 sec
+ENDING RUN 1: 925 min, 13 sec
+BEGINNING RUN 2: : 925 min, 13 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -140,14 +140,14 @@ Trainable params: 3,713
 Non-trainable params: 128
 _________________________________________________________________
 
-MODEL COMPILED: 539 min, 46 sec
-BEGINNING TRAINING: 539 min, 46 sec
-TRAINING COMPLETE: 707 min, 47 sec
+MODEL COMPILED: 925 min, 20 sec
+BEGINNING TRAINING: 925 min, 20 sec
+TRAINING COMPLETE: 1106 min, 23 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 819 min, 42 sec
-ENDING RUN 2: 819 min, 42 sec
-BEGINNING RUN 3: : 819 min, 42 sec
+RESULTS SAVED: 1387 min, 53 sec
+ENDING RUN 2: 1387 min, 53 sec
+BEGINNING RUN 3: : 1387 min, 53 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -187,14 +187,14 @@ Trainable params: 3,713
 Non-trainable params: 128
 _________________________________________________________________
 
-MODEL COMPILED: 819 min, 50 sec
-BEGINNING TRAINING: 819 min, 50 sec
-TRAINING COMPLETE: 988 min, 51 sec
+MODEL COMPILED: 1388 min, 3 sec
+BEGINNING TRAINING: 1388 min, 3 sec
+TRAINING COMPLETE: 1569 min, 47 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 1082 min, 52 sec
-ENDING RUN 3: 1082 min, 52 sec
-BEGINNING RUN 4: : 1082 min, 52 sec
+RESULTS SAVED: 1828 min, 14 sec
+ENDING RUN 3: 1828 min, 14 sec
+BEGINNING RUN 4: : 1828 min, 14 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -234,10 +234,10 @@ Trainable params: 3,713
 Non-trainable params: 128
 _________________________________________________________________
 
-MODEL COMPILED: 1083 min, 3 sec
-BEGINNING TRAINING: 1083 min, 3 sec
-TRAINING COMPLETE: 1271 min, 20 sec
+MODEL COMPILED: 1828 min, 22 sec
+BEGINNING TRAINING: 1828 min, 22 sec
+TRAINING COMPLETE: 2035 min, 6 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 1411 min, 22 sec
-ENDING RUN 4: 1411 min, 22 sec
+RESULTS SAVED: 2247 min, 33 sec
+ENDING RUN 4: 2247 min, 33 sec

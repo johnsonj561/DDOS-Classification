@@ -4,7 +4,7 @@ runs=10
 width=32
 depth=2
 epochs=100
-threshold_interval=0.0001
+threshold_interval=0.00005
 /home/jjohn273/git/DDOS-Classification/data/combined-minmax-scaled.hdf5
 BEGINNING RUN 0: : 0 min, 0 sec
 Data imbalance levels before sampling
@@ -46,14 +46,14 @@ Trainable params: 3,713
 Non-trainable params: 128
 _________________________________________________________________
 
-MODEL COMPILED: 0 min, 10 sec
-BEGINNING TRAINING: 0 min, 10 sec
-TRAINING COMPLETE: 337 min, 59 sec
+MODEL COMPILED: 3 min, 10 sec
+BEGINNING TRAINING: 3 min, 10 sec
+TRAINING COMPLETE: 449 min, 55 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 463 min, 10 sec
-ENDING RUN 0: 463 min, 10 sec
-BEGINNING RUN 1: : 463 min, 10 sec
+RESULTS SAVED: 691 min, 59 sec
+ENDING RUN 0: 691 min, 59 sec
+BEGINNING RUN 1: : 691 min, 59 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -93,14 +93,14 @@ Trainable params: 3,713
 Non-trainable params: 128
 _________________________________________________________________
 
-MODEL COMPILED: 463 min, 24 sec
-BEGINNING TRAINING: 463 min, 24 sec
-TRAINING COMPLETE: 816 min, 48 sec
+MODEL COMPILED: 693 min, 13 sec
+BEGINNING TRAINING: 693 min, 13 sec
+TRAINING COMPLETE: 1117 min, 10 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 889 min, 47 sec
-ENDING RUN 1: 889 min, 47 sec
-BEGINNING RUN 2: : 889 min, 47 sec
+RESULTS SAVED: 1399 min, 7 sec
+ENDING RUN 1: 1399 min, 7 sec
+BEGINNING RUN 2: : 1399 min, 7 sec
 Data imbalance levels before sampling
 Negative Samples: 2616175
 Positive Samples: 5317
@@ -140,10 +140,10 @@ Trainable params: 3,713
 Non-trainable params: 128
 _________________________________________________________________
 
-MODEL COMPILED: 889 min, 57 sec
-BEGINNING TRAINING: 889 min, 57 sec
-TRAINING COMPLETE: 1265 min, 58 sec
+MODEL COMPILED: 1399 min, 17 sec
+BEGINNING TRAINING: 1399 min, 17 sec
+TRAINING COMPLETE: 1806 min, 59 sec
 PLOTTING TRAIN VS VALIDATION PERFORMANCE
 CALCULATING THRESHOLDS
-RESULTS SAVED: 1406 min, 59 sec
-ENDING RUN 2: 1406 min, 59 sec
+RESULTS SAVED: 2013 min, 46 sec
+ENDING RUN 2: 2013 min, 46 sec

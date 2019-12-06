@@ -98,8 +98,8 @@ for run in range(runs):
 		data,
 		valid_size=0.1,
 		target_col='class',
-		ros_rate=None,
-		rus_rate=None)
+		ros_rate=1,
+		rus_rate=1)
 
 	del data
 
